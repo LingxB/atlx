@@ -1,0 +1,23 @@
+
+# Experiment_1
+# ------------
+exp_1:
+  # Description
+  description: >
+    Try to reproduce AT-LSTM by Wang et, al. (Baseline)
+  # Hyper parameters
+  hyperparams: &h1
+    epochs: 35
+    batch_size: 25
+    shuffle: True
+    cell_num: 300
+    layer_num: 1
+    dropout_keep_prob: 0.5
+    optimizer: adagrad
+    learning_rate: 0.01
+    initial_accumulator_value: 0.0000000001 #1e-10
+    lambda: 0.001 # l2
+    initializer: random_uniform
+    seed: 4
+    minval: -0.01
+    maxval: 0.01
