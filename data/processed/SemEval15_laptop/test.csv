@@ -1,0 +1,950 @@
+EA,CLS,SENT,ASP
+LAPTOP#OPERATION_PERFORMANCE,-1,"this computer periodically crashes ( office , iphoto , safari ) .",performance
+SOFTWARE#GENERAL,-1,"this computer periodically crashes ( office , iphoto , safari ) .",general
+LAPTOP#OPERATION_PERFORMANCE,-1,it takes a long time to get on the web and to change web sites .,performance
+LAPTOP#CONNECTIVITY,-1,it takes a long time to get on the web and to change web sites .,connectivity
+LAPTOP#OPERATION_PERFORMANCE,-1,locks up she searching for updates .,performance
+LAPTOP#QUALITY,-1,it seems that this computer might be a lemon .,quality
+LAPTOP#GENERAL,1,"i purchased my macbook pro retina from my school since i had a student discount , but i would gladly purchase it from amazon for full price again if i had too .",general
+LAPTOP#PRICE,0,"i purchased my macbook pro retina from my school since i had a student discount , but i would gladly purchase it from amazon for full price again if i had too .",price
+LAPTOP#GENERAL,1,"the retina is great , its amazingly fast when it boots up because of the ssd storage and the clarity of the screen is amazing as well .",general
+LAPTOP#OPERATION_PERFORMANCE,1,"the retina is great , its amazingly fast when it boots up because of the ssd storage and the clarity of the screen is amazing as well .",performance
+HARD_DISC#DESIGN_FEATURES,1,"the retina is great , its amazingly fast when it boots up because of the ssd storage and the clarity of the screen is amazing as well .",design
+DISPLAY#QUALITY,1,"the retina is great , its amazingly fast when it boots up because of the ssd storage and the clarity of the screen is amazing as well .",quality
+LAPTOP#QUALITY,-1,but if you buy this i would highly recommend that you buy a case and screen protector for this machine as they are known to be quite fragile .,quality
+DISPLAY#QUALITY,-1,but if you buy this i would highly recommend that you buy a case and screen protector for this machine as they are known to be quite fragile .,quality
+LAPTOP#GENERAL,1,"count me as extremely satisfied , it 's a perfect computer .",general
+LAPTOP#GENERAL,1,"i just bought this computer from the apple store , and i could n't be more impressed with it .",general
+DISPLAY#GENERAL,1,"it has a stunning retina display , and is very fast .",general
+LAPTOP#OPERATION_PERFORMANCE,1,"it has a stunning retina display , and is very fast .",performance
+LAPTOP#MISCELLANEOUS,1,"this computer is good for anything , and it has really superseded my high expectations .",miscellaneous
+LAPTOP#GENERAL,1,"this computer is good for anything , and it has really superseded my high expectations .",general
+MULTIMEDIA_DEVICES#QUALITY,1,"also , the sound quality from the speakers is crystal clear , and everything is just sleek and smooth .",quality
+LAPTOP#DESIGN_FEATURES,1,"also , the sound quality from the speakers is crystal clear , and everything is just sleek and smooth .",design
+LAPTOP#OPERATION_PERFORMANCE,1,"also , the sound quality from the speakers is crystal clear , and everything is just sleek and smooth .",performance
+DISPLAY#GENERAL,1,"the hd display is sensational , and now watching any movie is a very enjoyable experience for me .",general
+LAPTOP#MISCELLANEOUS,1,"the hd display is sensational , and now watching any movie is a very enjoyable experience for me .",miscellaneous
+HARDWARE#GENERAL,1,"no hardware issues , as is common with any apple product .",general
+COMPANY#GENERAL,1,"no hardware issues , as is common with any apple product .",general
+LAPTOP#GENERAL,1,"great product , and could n't be happier with it .",general
+LAPTOP#GENERAL,1,"awesome laptop , i love it",general
+LAPTOP#GENERAL,1,i love my new thinkpad !,general
+LAPTOP#GENERAL,1,"it gives me everything i need from a computer and with the long lasting battery , it also gives me mobility .",general
+BATTERY#OPERATION_PERFORMANCE,1,"it gives me everything i need from a computer and with the long lasting battery , it also gives me mobility .",performance
+LAPTOP#PORTABILITY,1,"it gives me everything i need from a computer and with the long lasting battery , it also gives me mobility .",portability
+LAPTOP#PORTABILITY,1,i can use it anywhere .,portability
+LAPTOP#GENERAL,1,it was a great purchase .,general
+LAPTOP#QUALITY,1,all the sturdy and substantial feel you expect from a thinkpad .,quality
+LAPTOP#OPERATION_PERFORMANCE,0,average performance on almost every benchmark but priced accordingly .,performance
+LAPTOP#PRICE,1,average performance on almost every benchmark but priced accordingly .,price
+LAPTOP#CONNECTIVITY,-1,below average on the w-fi adapter which i 'm still trying to get to the bottom of .,connectivity
+LAPTOP#GENERAL,1,great laptop .,general
+LAPTOP#OPERATION_PERFORMANCE,1,fast .,performance
+LAPTOP#OPERATION_PERFORMANCE,1,works very well .,performance
+LAPTOP#GENERAL,1,would purchase again .,general
+LAPTOP#GENERAL,1,a good value for the money .,general
+LAPTOP#PRICE,0,a good value for the money .,price
+LAPTOP#GENERAL,1,quite pleased with it .,general
+LAPTOP#OPERATION_PERFORMANCE,1,fast enough for my purposes .,performance
+SOFTWARE#GENERAL,1,no bloatware from third party parasites to uninstall .,general
+LAPTOP#DESIGN_FEATURES,1,no bloatware from third party parasites to uninstall .,design
+KEYBOARD#GENERAL,1,excellent keyboard and crisp screen .,general
+DISPLAY#QUALITY,1,excellent keyboard and crisp screen .,quality
+BATTERY#GENERAL,-1,battery could be better but it has robust processor and plenty of ram so that is a trade off i suppose .,general
+CPU#OPERATION_PERFORMANCE,1,battery could be better but it has robust processor and plenty of ram so that is a trade off i suppose .,performance
+MEMORY#DESIGN_FEATURES,1,battery could be better but it has robust processor and plenty of ram so that is a trade off i suppose .,design
+LAPTOP#GENERAL,1,i 'm glad to have it and it showed up in only a few days .,general
+LAPTOP#GENERAL,0,"the laptop itself is very good , it could be better , but not bad at all for it 's price point .",general
+LAPTOP#PRICE,0,"the laptop itself is very good , it could be better , but not bad at all for it 's price point .",price
+LAPTOP#GENERAL,1,it does everything i need .,general
+OS#GENERAL,1,the big deal with this was windows 7 .,general
+LAPTOP#GENERAL,1,when i saw this i grabbed it .,general
+LAPTOP#GENERAL,1,it has met all my needs .,general
+LAPTOP#GENERAL,1,just what i expected .,general
+LAPTOP#GENERAL,1,i do n't have any complains about this computer,general
+LAPTOP#GENERAL,1,outstanding laptop and very well built .,general
+LAPTOP#QUALITY,1,outstanding laptop and very well built .,quality
+DISPLAY#GENERAL,1,the retina display is fantastic .,general
+LAPTOP#GENERAL,1,one of the best thing i have bought in years .,general
+LAPTOP#GENERAL,1,"great pc , light and powerful .",general
+LAPTOP#DESIGN_FEATURES,1,"great pc , light and powerful .",design
+LAPTOP#OPERATION_PERFORMANCE,1,"great pc , light and powerful .",performance
+LAPTOP#GENERAL,1,is just amazing.= ),general
+DISPLAY#QUALITY,-1,the glare of the glossy-retina display is unbearable .,quality
+LAPTOP#GENERAL,-1,do not buy a mac until this issue is resolved .,general
+COMPANY#GENERAL,-1,do not buy a mac until this issue is resolved .,general
+LAPTOP#OPERATION_PERFORMANCE,1,"performs as advertised , if not better !",performance
+LAPTOP#DESIGN_FEATURES,1,super light weight ( i never cared either way about weight until now ) .,design
+LAPTOP#QUALITY,1,feels like solid state .,quality
+LAPTOP#GENERAL,1,wonderful machine ;,general
+LAPTOP#GENERAL,1,glad i bought it .,general
+LAPTOP#DESIGN_FEATURES,0,"tiny , forgivable drawback - no ethernet cable outlet .",design
+LAPTOP#CONNECTIVITY,0,"tiny , forgivable drawback - no ethernet cable outlet .",connectivity
+LAPTOP#DESIGN_FEATURES,0,but that 's not a deal-breaker .,design
+LAPTOP#GENERAL,1,super laptop ! !,general
+LAPTOP#GENERAL,1,will probably get another one for my wife !,general
+LAPTOP#DESIGN_FEATURES,-1,"a bit ugly , but works good",design
+LAPTOP#OPERATION_PERFORMANCE,1,"a bit ugly , but works good",performance
+LAPTOP#DESIGN_FEATURES,1,i like the design rather sleek and light .,design
+LAPTOP#GENERAL,0,"i will give advise any prospective buyers this is not great laptop , its good for web browsing and word processing",general
+LAPTOP#MISCELLANEOUS,1,"i will give advise any prospective buyers this is not great laptop , its good for web browsing and word processing",miscellaneous
+LAPTOP#GENERAL,1,fantastic for the price - just wish it the keys were illuminated .,general
+LAPTOP#PRICE,0,fantastic for the price - just wish it the keys were illuminated .,price
+KEYBOARD#DESIGN_FEATURES,-1,fantastic for the price - just wish it the keys were illuminated .,design
+LAPTOP#GENERAL,-1,if your on a budget ... . save up longer .,general
+LAPTOP#GENERAL,-1,this laptop is n't worth a single cent .,general
+LAPTOP#USABILITY,-1,i could n't even install linux on it .,usability
+OS#OPERATION_PERFORMANCE,-1,windows runs very poorly .,performance
+LAPTOP#GENERAL,-1,just save your money and get something better .,general
+LAPTOP#PRICE,1,awesome price for a laptop that lasts more than 8 hours without recharging !,price
+BATTERY#OPERATION_PERFORMANCE,1,awesome price for a laptop that lasts more than 8 hours without recharging !,performance
+LAPTOP#GENERAL,1,awesome !,general
+LAPTOP#QUALITY,-1,this laptop is a complete cheap junk .,quality
+LAPTOP#QUALITY,-1,by just looking at it you will realize it 's crap .,quality
+LAPTOP#GENERAL,-1,it 's not what you pay for .,general
+LAPTOP#PRICE,-1,it 's not what you pay for .,price
+LAPTOP#QUALITY,-1,the case is made from cheap plastic .,quality
+LAPTOP#DESIGN_FEATURES,-1,in the description it said there is bluetooth but no there is n't .,design
+LAPTOP#GENERAL,-1,"i 'm warning you , you 're wasting your money on this",general
+LAPTOP#GENERAL,1,love the computer .,general
+OS#GENERAL,-1,hate windows 8.1 !,general
+LAPTOP#DESIGN_FEATURES,-1,it dos n't even have a disc compartment,design
+LAPTOP#GENERAL,-1,had to return the computer .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,keeps freezing,performance
+LAPTOP#DESIGN_FEATURES,-1,no ethernet outlet,design
+LAPTOP#CONNECTIVITY,-1,no ethernet outlet,connectivity
+OPTICAL_DRIVES#QUALITY,-1,disc drive will not open or function,quality
+OPTICAL_DRIVES#OPERATION_PERFORMANCE,-1,disc drive will not open or function,performance
+LAPTOP#MISCELLANEOUS,-1,odd - unusual dell commands,miscellaneous
+LAPTOP#GENERAL,-1,would have exchanged instantly - but had to use as if for college immediately .,general
+LAPTOP#GENERAL,-1,unimpressed .,general
+LAPTOP#GENERAL,1,terrific laptop .,general
+LAPTOP#OPERATION_PERFORMANCE,1,works beautifully .,performance
+LAPTOP#PRICE,1,great price .,price
+LAPTOP#MISCELLANEOUS,1,just what we needed for our daughter to do her on line math class,miscellaneous
+LAPTOP#MISCELLANEOUS,1,this is a great home computer .,miscellaneous
+LAPTOP#QUALITY,1,"it is very , very quiet .",quality
+LAPTOP#GENERAL,1,"the only reason i did n't give it a 5 star is , i feel i have to reach so far to type on the key board .",general
+KEYBOARD#USABILITY,-1,"the only reason i did n't give it a 5 star is , i feel i have to reach so far to type on the key board .",usability
+KEYBOARD#USABILITY,-1,you also have to press firmly on the keys .,usability
+LAPTOP#GENERAL,1,otherwise this is a great computer great prices .,general
+LAPTOP#PRICE,1,otherwise this is a great computer great prices .,price
+LAPTOP#USABILITY,1,was easy to set up and has been easy to learn to use it .,usability
+LAPTOP#OPERATION_PERFORMANCE,1,works good and is fast enough for me .,performance
+LAPTOP#GENERAL,1,good product for a good price .,general
+LAPTOP#PRICE,1,good product for a good price .,price
+LAPTOP#QUALITY,-1,it was too cheaply constructed .,quality
+OS#GENERAL,-1,"it also gave me an introduction to windows 8 , which i hope will be discontinued it the future .",general
+LAPTOP#GENERAL,-1,the computer is horrible its to slow .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,the computer is horrible its to slow .,performance
+OPTICAL_DRIVES#QUALITY,-1,the thing that you insert cds into wo n't open .,quality
+LAPTOP#GENERAL,-1,not a good computer at all .,general
+LAPTOP#GENERAL,-1,we returned two days later .,general
+SUPPORT#QUALITY,1,they were excellent to handle our return and post our refund back into our account the next day .,quality
+LAPTOP#PRICE,1,great price and computer !,price
+LAPTOP#GENERAL,1,great price and computer !,general
+LAPTOP#GENERAL,1,they loved it .,general
+LAPTOP#USABILITY,1,"it 's easy to operate and it 's very light ( my parents are almost 60 yo , they ca n't carry a heavy computer while traveling ) .",usability
+LAPTOP#DESIGN_FEATURES,1,"it 's easy to operate and it 's very light ( my parents are almost 60 yo , they ca n't carry a heavy computer while traveling ) .",design
+LAPTOP#PORTABILITY,1,"it 's easy to operate and it 's very light ( my parents are almost 60 yo , they ca n't carry a heavy computer while traveling ) .",portability
+LAPTOP#DESIGN_FEATURES,-1,"but here 's something i had n't realized before buying it : there is n't an optical drive , which means no cds or dvds !",design
+LAPTOP#QUALITY,-1,this product was doa .,quality
+DISPLAY#QUALITY,-1,fired up and worked for the first day and then the display died on my wife while she was taking a timed test .,quality
+LAPTOP#GENERAL,-1,would not recommend .,general
+LAPTOP#GENERAL,1,pretty good laptop .,general
+LAPTOP#MISCELLANEOUS,1,good for basic stuff .,miscellaneous
+LAPTOP#MISCELLANEOUS,-1,do n't try to use to play any pc games or anything .,miscellaneous
+LAPTOP#MISCELLANEOUS,0,just for simple web browsing and media streaming .,miscellaneous
+LAPTOP#QUALITY,1,pretty premium feel for the low price .,quality
+LAPTOP#PRICE,1,pretty premium feel for the low price .,price
+LAPTOP#OPERATION_PERFORMANCE,-1,i have so much trouble turning the computer on .,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,it comes on for seconds then shuts itself off .,performance
+LAPTOP#DESIGN_FEATURES,-1,"my mistake was to not research this one , no dvd and no place to insert my ad card to download pictures .",design
+LAPTOP#QUALITY,-1,i should have waited to find a higher quality computer .,quality
+LAPTOP#GENERAL,1,"i 'm very happy , this laptop is beatifull , is'nt slow at all .",general
+LAPTOP#DESIGN_FEATURES,1,"i 'm very happy , this laptop is beatifull , is'nt slow at all .",design
+LAPTOP#OPERATION_PERFORMANCE,1,"i 'm very happy , this laptop is beatifull , is'nt slow at all .",performance
+LAPTOP#DESIGN_FEATURES,-1,"but it does n't have a cd unit , anyway the other thing is that the laptop does not have an ethernet port for cable connecting .",design
+LAPTOP#CONNECTIVITY,-1,"but it does n't have a cd unit , anyway the other thing is that the laptop does not have an ethernet port for cable connecting .",connectivity
+LAPTOP#CONNECTIVITY,-1,just wifi ... .,connectivity
+DISPLAY#DESIGN_FEATURES,1,"the screen is big , and everything was as described",design
+LAPTOP#GENERAL,1,"the screen is big , and everything was as described",general
+LAPTOP#MISCELLANEOUS,1,"for everyday use , you ca n't really go wrong with this laptop .",miscellaneous
+LAPTOP#MISCELLANEOUS,1,"if , like me , you will be paying bills , occasionally reading the news , or just buying stuff on line , then this is a winner .",miscellaneous
+LAPTOP#MISCELLANEOUS,-1,"if you are a gamer or need it for heavy computer use , get something else .",miscellaneous
+LAPTOP#MISCELLANEOUS,1,it 's a good starter computer that is extremely light on the wallet .,miscellaneous
+LAPTOP#PRICE,1,it 's a good starter computer that is extremely light on the wallet .,price
+LAPTOP#MISCELLANEOUS,1,"like i said , good for basic stuff and as a starter .",miscellaneous
+OS#USABILITY,0,still getting use to window 8 .,usability
+LAPTOP#DESIGN_FEATURES,0,has a built in camera which i do not use .,design
+LAPTOP#QUALITY,0,sturdy but only for typical wear and tear .,quality
+LAPTOP#PRICE,1,can not believe the price !,price
+LAPTOP#GENERAL,1,"amazing computer , perfect for school .",general
+LAPTOP#MISCELLANEOUS,1,"amazing computer , perfect for school .",miscellaneous
+LAPTOP#GENERAL,1,i 've had my lenovo for a little over a month now and it does everything i want it to do and more .,general
+LAPTOP#GENERAL,1,i really have nothing negative to say about it .,general
+KEYBOARD#DESIGN_FEATURES,-1,the keyboard is a little wonky with having to use the function button to get the f-keys but with how infrequently i use those it is a non-issue .,design
+KEYBOARD#USABILITY,0,the keyboard is a little wonky with having to use the function button to get the f-keys but with how infrequently i use those it is a non-issue .,usability
+LAPTOP#GENERAL,1,it is a great value for what you get .,general
+LAPTOP#PRICE,1,it is a great value for what you get .,price
+LAPTOP#MISCELLANEOUS,1,i can run somewhat modern games like skyrim and fallout new vegas with no issues .,miscellaneous
+LAPTOP#GENERAL,1,i get giddy every time i use this thing .,general
+LAPTOP#DESIGN_FEATURES,1,it is a thing of beauty and fast enough .,design
+LAPTOP#OPERATION_PERFORMANCE,1,it is a thing of beauty and fast enough .,performance
+LAPTOP#OPERATION_PERFORMANCE,1,when you click and do n't wait .,performance
+LAPTOP#OPERATION_PERFORMANCE,1,"so yes , it is ridiculously fast .",performance
+BATTERY#OPERATION_PERFORMANCE,1,the battery will get you from la to ny no problem .,performance
+OS#USABILITY,0,the 8.1.way different than my other computer so we have to get use to it .,usability
+LAPTOP#DESIGN_FEATURES,1,it is very light and the picture is nice and the price was amazing .,design
+DISPLAY#QUALITY,1,it is very light and the picture is nice and the price was amazing .,quality
+LAPTOP#PRICE,1,it is very light and the picture is nice and the price was amazing .,price
+LAPTOP#MISCELLANEOUS,1,can even readmy kindle on this computer,miscellaneous
+LAPTOP#GENERAL,1,"excellent item , shipped on time , met my expectations , it doesnt heat at all , dont use it for gaming",general
+SHIPPING#QUALITY,1,"excellent item , shipped on time , met my expectations , it doesnt heat at all , dont use it for gaming",quality
+LAPTOP#QUALITY,1,"excellent item , shipped on time , met my expectations , it doesnt heat at all , dont use it for gaming",quality
+LAPTOP#MISCELLANEOUS,-1,"excellent item , shipped on time , met my expectations , it doesnt heat at all , dont use it for gaming",miscellaneous
+LAPTOP#PRICE,0,for the price this is a super product out of the box .,price
+LAPTOP#GENERAL,1,for the price this is a super product out of the box .,general
+LAPTOP#OPERATION_PERFORMANCE,0,it wont wow you with its speed but who can complain at $ 249 .,performance
+LAPTOP#PRICE,1,it wont wow you with its speed but who can complain at $ 249 .,price
+KEYBOARD#DESIGN_FEATURES,1,plus this computer comes with a full size keyboard .,design
+LAPTOP#DESIGN_FEATURES,1,no junkware ! !,design
+SOFTWARE#GENERAL,1,no junkware ! !,general
+LAPTOP#MISCELLANEOUS,1,"this computer is great for someone who is looking to manage their online life ( banling , facebook etc ) and some basic offline work using ms office .",miscellaneous
+LAPTOP#DESIGN_FEATURES,-1,the only drawback is no dvd player.. but for $ 20 you can buy an external one,design
+LAPTOP#DESIGN_FEATURES,1,very light and beautiful .,design
+LAPTOP#OPERATION_PERFORMANCE,-1,it 's just a little slow .,performance
+LAPTOP#GENERAL,1,five starts,general
+LAPTOP#OPERATION_PERFORMANCE,-1,terribly slow ...,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,start up time took forever everything runs very slowly .,performance
+DISPLAY#QUALITY,-1,screen broke 1 month outside warranty .,quality
+LAPTOP#QUALITY,-1,overall build quality is cheap .,quality
+COMPANY#GENERAL,-1,avoid acer .,general
+LAPTOP#GENERAL,0,not bad .,general
+LAPTOP#DESIGN_FEATURES,1,"nice and light , seems to help your work instead of becoming work itself .",design
+LAPTOP#USABILITY,1,"nice and light , seems to help your work instead of becoming work itself .",usability
+LAPTOP#DESIGN_FEATURES,1,perfect size for me .,design
+LAPTOP#MISCELLANEOUS,0,"probably not a gaming machine , which i have zero interest in .",miscellaneous
+LAPTOP#GENERAL,1,i just love this ultrabook,general
+LAPTOP#MISCELLANEOUS,1,i defenitly recommend it for anyone for office and home work,miscellaneous
+LAPTOP#GENERAL,0,it 's ok .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,i find that it often gets very slow and i have to restart more than usual .,performance
+LAPTOP#DESIGN_FEATURES,1,"it 's light and easy to use , though .",design
+LAPTOP#USABILITY,1,"it 's light and easy to use , though .",usability
+LAPTOP#GENERAL,1,"i love this computer , this is my first ever mac ( i 'm 21 ) and it took a little while to switch over from the os i was used to , but it was a fast learning curve .",general
+OS#USABILITY,0,"i love this computer , this is my first ever mac ( i 'm 21 ) and it took a little while to switch over from the os i was used to , but it was a fast learning curve .",usability
+DISPLAY#QUALITY,1,"the resolution is gorgeous , the computer is light , it does everything i need and the interface is pretty intuitive .",quality
+LAPTOP#DESIGN_FEATURES,1,"the resolution is gorgeous , the computer is light , it does everything i need and the interface is pretty intuitive .",design
+LAPTOP#GENERAL,1,"the resolution is gorgeous , the computer is light , it does everything i need and the interface is pretty intuitive .",general
+OS#USABILITY,1,"the resolution is gorgeous , the computer is light , it does everything i need and the interface is pretty intuitive .",usability
+LAPTOP#GENERAL,1,i love this computer !,general
+LAPTOP#DESIGN_FEATURES,-1,however i am very upset that it does n't have the superdrive built in !,design
+LAPTOP#USABILITY,1,supper east to use .,usability
+DISPLAY#GENERAL,1,retina display is beautiful .,general
+LAPTOP#OPERATION_PERFORMANCE,1,also very quick laptop !,performance
+LAPTOP#DESIGN_FEATURES,-1,con : hate that it has no disk drive .,design
+LAPTOP#QUALITY,1,i am also glad it doesnt get too hot when left on for an extended period of time .,quality
+BATTERY#OPERATION_PERFORMANCE,1,"the battery life is good , even with using high profile software like sibelius 7 for a good half of the day .",performance
+LAPTOP#GENERAL,1,"wonderful , super fast , lightweight computer",general
+LAPTOP#OPERATION_PERFORMANCE,1,"wonderful , super fast , lightweight computer",performance
+LAPTOP#DESIGN_FEATURES,1,"wonderful , super fast , lightweight computer",design
+LAPTOP#USABILITY,1,"the new macbook pro working , good user experience , fast speed , faster start up time .",usability
+LAPTOP#OPERATION_PERFORMANCE,1,"the new macbook pro working , good user experience , fast speed , faster start up time .",performance
+LAPTOP#GENERAL,1,this is what i was looking for .,general
+DISPLAY#DESIGN_FEATURES,1,it has a wide screen and it 's easy to use .,design
+LAPTOP#USABILITY,1,it has a wide screen and it 's easy to use .,usability
+LAPTOP#MISCELLANEOUS,1,"at my age , i need this kind of laptop .",miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,-1,extremely slow .,performance
+LAPTOP#QUALITY,-1,a masterpiece of crap .,quality
+LAPTOP#QUALITY,-1,not durable .,quality
+CPU#OPERATION_PERFORMANCE,-1,"slow processor , just not it",performance
+LAPTOP#GENERAL,-1,"slow processor , just not it",general
+MOUSE#USABILITY,-1,"i ca n't use the trackpad very well , it 's too sensitive , so i hooked up a mouse .",usability
+MOUSE#OPERATION_PERFORMANCE,-1,"i ca n't use the trackpad very well , it 's too sensitive , so i hooked up a mouse .",performance
+LAPTOP#CONNECTIVITY,1,external monitor worked easily .,connectivity
+LAPTOP#GENERAL,1,been using lenovo thinkpad edge laptops in our business for several years now and have no complaints about any of them .,general
+LAPTOP#QUALITY,1,"they have held up well not just in our sales department , but also in our service department where they are exposed to dust , exhaust , grease , oil , and all manner of other non-computer-friendly substances .",quality
+LAPTOP#QUALITY,1,"general , a quality laptop .",quality
+SOFTWARE#GENERAL,0,the lenovo software that comes preinstalled may qualify as bloatware but is easily removed if you 're not interested in it .,general
+LAPTOP#DESIGN_FEATURES,0,the lenovo software that comes preinstalled may qualify as bloatware but is easily removed if you 're not interested in it .,design
+LAPTOP#USABILITY,1,the lenovo software that comes preinstalled may qualify as bloatware but is easily removed if you 're not interested in it .,usability
+OS#GENERAL,1,windows 7 rocks .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,computer runs very slow !,performance
+LAPTOP#GENERAL,1,great laptop !,general
+DISPLAY#DESIGN_FEATURES,1,"bigger screen than expected , laptop with a desktop design that is really nice to use for all types of usage , including programming/editing",design
+LAPTOP#DESIGN_FEATURES,1,"bigger screen than expected , laptop with a desktop design that is really nice to use for all types of usage , including programming/editing",design
+LAPTOP#USABILITY,1,"bigger screen than expected , laptop with a desktop design that is really nice to use for all types of usage , including programming/editing",usability
+LAPTOP#MISCELLANEOUS,1,"bigger screen than expected , laptop with a desktop design that is really nice to use for all types of usage , including programming/editing",miscellaneous
+OS#GENERAL,1,"one of the very few laptops still available with win 7 pro , multiple usb ports , and a dvd read/write drive .",general
+LAPTOP#DESIGN_FEATURES,1,"one of the very few laptops still available with win 7 pro , multiple usb ports , and a dvd read/write drive .",design
+LAPTOP#DESIGN_FEATURES,-1,only drawback is no led to show when the hard drive is being accessed .,design
+LAPTOP#DESIGN_FEATURES,-1,"not a necessity , but something i 've come to expect .",design
+LAPTOP#GENERAL,1,does what i need it to do and the price was right !,general
+LAPTOP#PRICE,1,does what i need it to do and the price was right !,price
+LAPTOP#GENERAL,1,great laptop from apple !,general
+COMPANY#GENERAL,1,great laptop from apple !,general
+LAPTOP#QUALITY,1,apple is unrivaled in terms of build quality and functionality .,quality
+LAPTOP#OPERATION_PERFORMANCE,1,apple is unrivaled in terms of build quality and functionality .,performance
+COMPANY#GENERAL,1,apple is unrivaled in terms of build quality and functionality .,general
+DISPLAY#GENERAL,1,the retina screen is absolutely beautiful and the touchpad is the best touchpad to date .,general
+MOUSE#GENERAL,1,the retina screen is absolutely beautiful and the touchpad is the best touchpad to date .,general
+LAPTOP#USABILITY,1,the pair allow for seamless navigation throughout the whole interface .,usability
+BATTERY#OPERATION_PERFORMANCE,1,battery life is astonishing given the processing power and high resolution display .,performance
+CPU#OPERATION_PERFORMANCE,1,battery life is astonishing given the processing power and high resolution display .,performance
+DISPLAY#QUALITY,1,battery life is astonishing given the processing power and high resolution display .,quality
+BATTERY#OPERATION_PERFORMANCE,1,i can easily get 10 hours out of a full charge .,performance
+LAPTOP#QUALITY,1,"overall , a high quality laptop and a great value considering all this computer has to offer .",quality
+LAPTOP#PRICE,1,"overall , a high quality laptop and a great value considering all this computer has to offer .",price
+LAPTOP#GENERAL,1,"overall , a high quality laptop and a great value considering all this computer has to offer .",general
+LAPTOP#GENERAL,1,well worth the extra cost .,general
+LAPTOP#PRICE,0,well worth the extra cost .,price
+LAPTOP#DESIGN_FEATURES,1,size is perfect and display is beautiful !,design
+DISPLAY#GENERAL,1,size is perfect and display is beautiful !,general
+LAPTOP#OPERATION_PERFORMANCE,1,"excellent performance , especially given its price point .",performance
+LAPTOP#PRICE,1,"excellent performance , especially given its price point .",price
+DISPLAY#DESIGN_FEATURES,1,the screen is wide and provides excellent clarity .,design
+DISPLAY#QUALITY,1,the screen is wide and provides excellent clarity .,quality
+LAPTOP#DESIGN_FEATURES,0,"it is not a small , compact laptop , but i wo n't be traveling via air often , so its size and weight is not a problem for me .",design
+LAPTOP#PORTABILITY,0,"it is not a small , compact laptop , but i wo n't be traveling via air often , so its size and weight is not a problem for me .",portability
+LAPTOP#GENERAL,1,i can appreciate why she recommended it !,general
+LAPTOP#OPERATION_PERFORMANCE,-1,do n't expect much in terms of performance from this laptop .,performance
+LAPTOP#MISCELLANEOUS,1,"it gets the job done in terms of having a computer that can browse the web , use word/excel , and the like .",miscellaneous
+LAPTOP#DESIGN_FEATURES,-1,this laptop does not have an rj-45 ethernet adapter for wired network connection .,design
+LAPTOP#CONNECTIVITY,-1,this laptop does not have an rj-45 ethernet adapter for wired network connection .,connectivity
+LAPTOP#OPERATION_PERFORMANCE,1,fast easy,performance
+LAPTOP#USABILITY,1,fast easy,usability
+LAPTOP#GENERAL,1,so far i do not have any trouble with it other than the picture quality is a bit poor .,general
+DISPLAY#QUALITY,-1,so far i do not have any trouble with it other than the picture quality is a bit poor .,quality
+LAPTOP#OPERATION_PERFORMANCE,1,i have had it over a month now and it works just fine .,performance
+LAPTOP#MISCELLANEOUS,1,this laptop suits my needs : as i am currently studying online and just need a computer for that purpose .,miscellaneous
+LAPTOP#MISCELLANEOUS,1,my daughter uses it for college too and it works great for both of us .,miscellaneous
+LAPTOP#GENERAL,1,"so i gave this 4 stars but only because of the poor picture quality , other than that it is a great buy !",general
+DISPLAY#QUALITY,-1,"so i gave this 4 stars but only because of the poor picture quality , other than that it is a great buy !",quality
+LAPTOP#GENERAL,-1,this laptop is absolutely horrible .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,i bought it simply for excel on windows for work since i have a macbook air and literally the thing freezes and lags opening excel or my web browser .,performance
+LAPTOP#GENERAL,-1,there is a chance mine is defective but regardless i 'm not going to try another one this is a terrible product .,general
+LAPTOP#GENERAL,-1,i 'd much rather bite the bullet and spend a little more for a product that actually meets minimum computing expectations for 2014 .,general
+LAPTOP#PRICE,1,i appreciate the effort to hit affordable pricing dell but just not worth it .,price
+LAPTOP#GENERAL,-1,i appreciate the effort to hit affordable pricing dell but just not worth it .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,it is slow and complicated and very disappointing,performance
+LAPTOP#USABILITY,-1,it is slow and complicated and very disappointing,usability
+LAPTOP#GENERAL,-1,it is slow and complicated and very disappointing,general
+LAPTOP#GENERAL,1,great labtop..,general
+LAPTOP#OPERATION_PERFORMANCE,-1,not as fast as i would have liked it to be but everything else is great !,performance
+LAPTOP#GENERAL,1,not as fast as i would have liked it to be but everything else is great !,general
+LAPTOP#GENERAL,-1,i 've only had this computer for a few days an i already do n't like it .,general
+BATTERY#OPERATION_PERFORMANCE,-1,the battery life is a joke and it 's causing other problems .,performance
+BATTERY#MISCELLANEOUS,-1,the battery life is a joke and it 's causing other problems .,miscellaneous
+LAPTOP#GENERAL,-1,i will be returning it .,general
+LAPTOP#GENERAL,-1,if people are writing bad reviews about this laptop then believe what they say .,general
+LAPTOP#GENERAL,0,this is an ok computer .,general
+CPU#OPERATION_PERFORMANCE,0,the processor shows a speed of 1.7gz .,performance
+MULTIMEDIA_DEVICES#QUALITY,-1,the sound is disappointing .,quality
+MULTIMEDIA_DEVICES#QUALITY,-1,no bass sound at all .,quality
+LAPTOP#QUALITY,-1,maybe this one is just a dud .,quality
+LAPTOP#GENERAL,1,the computer is very wonderful .,general
+LAPTOP#DESIGN_FEATURES,-1,was not aware it did not have a disk drive when i bought it or i would not of purchased it .,design
+LAPTOP#OPERATION_PERFORMANCE,-1,it does have a habit of restarting itself when you try to do the log in pw . but over all . im very satisfied .,performance
+LAPTOP#GENERAL,1,it does have a habit of restarting itself when you try to do the log in pw . but over all . im very satisfied .,general
+LAPTOP#OPERATION_PERFORMANCE,1,its very fast and very light .,performance
+LAPTOP#DESIGN_FEATURES,1,its very fast and very light .,design
+LAPTOP#GENERAL,1,great product .,general
+LAPTOP#GENERAL,1,i am giviing it four stars instead of five because of no disk drive and the crashing,general
+LAPTOP#DESIGN_FEATURES,-1,i am giviing it four stars instead of five because of no disk drive and the crashing,design
+LAPTOP#OPERATION_PERFORMANCE,-1,i am giviing it four stars instead of five because of no disk drive and the crashing,performance
+LAPTOP#GENERAL,1,i absolutely love my dell inspiron !,general
+LAPTOP#OPERATION_PERFORMANCE,1,"it powers on/off very quickly , and it loads up automatically .",performance
+MOUSE#QUALITY,0,"the mouse click is a bit loud , but it really is n't a problem .",quality
+LAPTOP#GENERAL,1,"for $ 250 , i highly recommend ! !",general
+LAPTOP#PRICE,1,"for $ 250 , i highly recommend ! !",price
+LAPTOP#QUALITY,-1,very poor quality lap top ... .,quality
+LAPTOP#GENERAL,-1,i am returning it ...,general
+LAPTOP#OPERATION_PERFORMANCE,-1,slow,performance
+LAPTOP#GENERAL,1,great value laptop !,general
+LAPTOP#PRICE,1,great value laptop !,price
+LAPTOP#PRICE,1,i ca n't believe this was just $ 250,price
+LAPTOP#OPERATION_PERFORMANCE,1,"speed is great , easy to set up and get going .",performance
+LAPTOP#USABILITY,1,"speed is great , easy to set up and get going .",usability
+LAPTOP#GENERAL,1,very pleased so far .,general
+LAPTOP#USABILITY,-1,it is very difficult to use this computer .,usability
+LAPTOP#USABILITY,-1,too many steps to get anywhere and hard to set up,usability
+LAPTOP#OPERATION_PERFORMANCE,1,"this things run smoothly for its price , and the battery life seems to go on forever .",performance
+LAPTOP#PRICE,0,"this things run smoothly for its price , and the battery life seems to go on forever .",price
+BATTERY#OPERATION_PERFORMANCE,1,"this things run smoothly for its price , and the battery life seems to go on forever .",performance
+LAPTOP#OPERATION_PERFORMANCE,1,i was n't disappointed in its performance .,performance
+LAPTOP#GENERAL,1,"all in all , it 's well worth its price tag .",general
+LAPTOP#PRICE,1,"all in all , it 's well worth its price tag .",price
+LAPTOP#GENERAL,1,great laptop for the price .,general
+LAPTOP#PRICE,0,great laptop for the price .,price
+KEYBOARD#DESIGN_FEATURES,1,it was nearly impossible to find a laptop that had a ) a side keyboard .,design
+LAPTOP#DESIGN_FEATURES,1,b ) a dvd/cd player .,design
+HARD_DISC#DESIGN_FEATURES,1,c ) a large hard drive instead of using the cloud,design
+LAPTOP#PRICE,1,d ) was under $ 300 with shipping .,price
+OS#GENERAL,-1,the only con is windows effin 8 .,general
+LAPTOP#GENERAL,1,still giving it a 5 star rating because it is fast and a nice sized screen .,general
+LAPTOP#OPERATION_PERFORMANCE,1,still giving it a 5 star rating because it is fast and a nice sized screen .,performance
+DISPLAY#DESIGN_FEATURES,1,still giving it a 5 star rating because it is fast and a nice sized screen .,design
+LAPTOP#MISCELLANEOUS,1,great for web design and general work .,miscellaneous
+LAPTOP#GENERAL,1,overall good but processing power is n't very good .,general
+CPU#OPERATION_PERFORMANCE,-1,overall good but processing power is n't very good .,performance
+OS#GENERAL,1,"w7 pro with w8 pro upgrade is nice , but it frequently freezes for a few seconds here and there .",general
+OS#OPERATION_PERFORMANCE,-1,"w7 pro with w8 pro upgrade is nice , but it frequently freezes for a few seconds here and there .",performance
+LAPTOP#OPERATION_PERFORMANCE,-1,i replaced stock drive with wd black 7k drive and is still quite slow .,performance
+BATTERY#OPERATION_PERFORMANCE,-1,battery does n't last long web browsing ( 2.5 hours maybe ) .,performance
+LAPTOP#DESIGN_FEATURES,-1,it has some bloat wear that i wish were n't there .,design
+SOFTWARE#GENERAL,-1,it has some bloat wear that i wish were n't there .,general
+LAPTOP#OPERATION_PERFORMANCE,1,it works fine for a pc in this price range .,performance
+LAPTOP#PRICE,0,it works fine for a pc in this price range .,price
+LAPTOP#GENERAL,1,i bought it for my parents ( late 60s ) and they love it - particularly the keyboard and screen .,general
+KEYBOARD#GENERAL,1,i bought it for my parents ( late 60s ) and they love it - particularly the keyboard and screen .,general
+DISPLAY#GENERAL,1,i bought it for my parents ( late 60s ) and they love it - particularly the keyboard and screen .,general
+LAPTOP#GENERAL,1,terrific value for the money .,general
+LAPTOP#PRICE,0,terrific value for the money .,price
+KEYBOARD#DESIGN_FEATURES,1,love the key layout and the built-in mouse pad - all work well and are properly sized .,design
+MOUSE#DESIGN_FEATURES,1,love the key layout and the built-in mouse pad - all work well and are properly sized .,design
+KEYBOARD#OPERATION_PERFORMANCE,1,love the key layout and the built-in mouse pad - all work well and are properly sized .,performance
+MOUSE#OPERATION_PERFORMANCE,1,love the key layout and the built-in mouse pad - all work well and are properly sized .,performance
+LAPTOP#GENERAL,1,highly recommended .,general
+LAPTOP#OPERATION_PERFORMANCE,1,works good but does n't seem like it 's made sturdy .,performance
+LAPTOP#QUALITY,-1,works good but does n't seem like it 's made sturdy .,quality
+LAPTOP#DESIGN_FEATURES,-1,kinda to light and plastic feeling .,design
+LAPTOP#QUALITY,-1,kinda to light and plastic feeling .,quality
+LAPTOP#GENERAL,1,killer computer .,general
+LAPTOP#GENERAL,1,i would highly recommend this computer it is fast ! ! !,general
+LAPTOP#OPERATION_PERFORMANCE,1,i would highly recommend this computer it is fast ! ! !,performance
+DISPLAY#DESIGN_FEATURES,0,does n't have touch screen but i have a tablet so that was n't so important .,design
+LAPTOP#DESIGN_FEATURES,1,look and feel is good .,design
+LAPTOP#QUALITY,1,look and feel is good .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,i am experiencing the system little slower than what i have expected .,performance
+CPU#OPERATION_PERFORMANCE,-1,"and processor feels pressured even though i run medium scale programs , watching the way exhaust speed increases .",performance
+HARD_DISC#QUALITY,-1,the hdd has a scratching noise .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,the system sometimes lags a lot .,performance
+LAPTOP#GENERAL,-1,i do n't like it at all ...,general
+LAPTOP#CONNECTIVITY,-1,i ca n't put a protector to make presentation ...,connectivity
+LAPTOP#QUALITY,1,a good value on a quality product .,quality
+LAPTOP#PRICE,1,a good value on a quality product .,price
+LAPTOP#USABILITY,1,"easy setup , and delivers all the functions we need .",usability
+LAPTOP#OPERATION_PERFORMANCE,1,"easy setup , and delivers all the functions we need .",performance
+LAPTOP#GENERAL,1,this laptop is amazing !,general
+LAPTOP#DESIGN_FEATURES,0,"despite the fact that there 's no optical drive , everything is perfect .",design
+LAPTOP#GENERAL,1,"despite the fact that there 's no optical drive , everything is perfect .",general
+DISPLAY#QUALITY,1,"the screen resolution is crystal clear , the speakers are amazing , and the track pad is easy to use .",quality
+MULTIMEDIA_DEVICES#GENERAL,1,"the screen resolution is crystal clear , the speakers are amazing , and the track pad is easy to use .",general
+MOUSE#USABILITY,1,"the screen resolution is crystal clear , the speakers are amazing , and the track pad is easy to use .",usability
+OS#USABILITY,1,the home page/startup is easy to navigate which is the one thing i was mainly concerned about .,usability
+LAPTOP#CONNECTIVITY,1,"internet is fast and reliable , battery life lasts a long time .",connectivity
+BATTERY#OPERATION_PERFORMANCE,1,"internet is fast and reliable , battery life lasts a long time .",performance
+LAPTOP#GENERAL,1,i love this laptop !,general
+LAPTOP#QUALITY,-1,looks like this dell is a piece of crap .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,"it does not turn on - if i take the battery out it might work , not sure if it 's a bad battery or computer !",performance
+LAPTOP#QUALITY,-1,"it does not turn on - if i take the battery out it might work , not sure if it 's a bad battery or computer !",quality
+LAPTOP#GENERAL,-1,do not recommend !,general
+LAPTOP#GENERAL,1,awesome laptop !,general
+LAPTOP#OPERATION_PERFORMANCE,1,"bootup time is amazing , battery life is decent and it has a great slim form factor .",performance
+BATTERY#OPERATION_PERFORMANCE,0,"bootup time is amazing , battery life is decent and it has a great slim form factor .",performance
+LAPTOP#DESIGN_FEATURES,1,"bootup time is amazing , battery life is decent and it has a great slim form factor .",design
+LAPTOP#USABILITY,0,"there is somewhat of a learning curve , but the operating system , and hardware of this mac are great .",usability
+OS#GENERAL,1,"there is somewhat of a learning curve , but the operating system , and hardware of this mac are great .",general
+HARDWARE#GENERAL,1,"there is somewhat of a learning curve , but the operating system , and hardware of this mac are great .",general
+LAPTOP#MISCELLANEOUS,1,more than enough for my use .,miscellaneous
+DISPLAY#QUALITY,1,"the display is vibrant and clear , the keyboard is well designed and pleasant to type on ;",quality
+KEYBOARD#DESIGN_FEATURES,1,"the display is vibrant and clear , the keyboard is well designed and pleasant to type on ;",design
+KEYBOARD#USABILITY,1,"the display is vibrant and clear , the keyboard is well designed and pleasant to type on ;",usability
+LAPTOP#USABILITY,1,i even installed a windows partition to be able to run windows software .,usability
+LAPTOP#OPERATION_PERFORMANCE,1,"things just work , they are fluid , easy to use and understand , fast and work well .",performance
+LAPTOP#USABILITY,1,"things just work , they are fluid , easy to use and understand , fast and work well .",usability
+LAPTOP#MISCELLANEOUS,1,"this computer is absolutely perfect for web browsing , watching video , word processing , and that 's about it .",miscellaneous
+LAPTOP#MISCELLANEOUS,-1,"if you want a computer that plays games or any advanced tasks like editing video , this computer is not for you .",miscellaneous
+LAPTOP#MISCELLANEOUS,-1,"now when i say do n't expect to play games on it , i mean it .",miscellaneous
+LAPTOP#MISCELLANEOUS,-1,pretty much every major game save for solitare wo n't even play on it due to the slower processor .,miscellaneous
+CPU#OPERATION_PERFORMANCE,-1,pretty much every major game save for solitare wo n't even play on it due to the slower processor .,performance
+LAPTOP#DESIGN_FEATURES,-1,"its also worth noting that there no bluetooth , no mircophone jack , no ethernet , no dvd/cd drive/burner , and no usb 3.0 ports .",design
+LAPTOP#DESIGN_FEATURES,0,"it does come with two usb 2.0 ports , a hdmi port , and a webcam .",design
+MULTIMEDIA_DEVICES#GENERAL,0,"the webcam is nothing special , its there if you need it .",general
+MULTIMEDIA_DEVICES#QUALITY,-1,do n't expect it to take good pictures or video .,quality
+BATTERY#QUALITY,1,the battery is pretty soild .,quality
+BATTERY#OPERATION_PERFORMANCE,1,it lasts up to 5-6 hours with normal use .,performance
+LAPTOP#QUALITY,1,the computer itself runs very quiet and is mostly cool to the touch .,quality
+OS#GENERAL,-1,the only major negative to me is windows 8.1 ( though ymmv ) and the dell crapware installed .,general
+SOFTWARE#GENERAL,-1,the only major negative to me is windows 8.1 ( though ymmv ) and the dell crapware installed .,general
+LAPTOP#DESIGN_FEATURES,-1,the only major negative to me is windows 8.1 ( though ymmv ) and the dell crapware installed .,design
+LAPTOP#GENERAL,0,not bad for the price .,general
+LAPTOP#PRICE,0,not bad for the price .,price
+LAPTOP#PRICE,1,i needed an inexpensive laptop to do basic office work on that was lightweight and this fits the bill just fine .,price
+LAPTOP#DESIGN_FEATURES,1,i needed an inexpensive laptop to do basic office work on that was lightweight and this fits the bill just fine .,design
+LAPTOP#MISCELLANEOUS,1,i needed an inexpensive laptop to do basic office work on that was lightweight and this fits the bill just fine .,miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,-1,"performance wise , it 's a bit slow , but that 's to be expected from a celeron-class processor .",performance
+CPU#OPERATION_PERFORMANCE,-1,"performance wise , it 's a bit slow , but that 's to be expected from a celeron-class processor .",performance
+OS#GENERAL,-1,"i 'm also not a fan of windows 8 , but fortunately i can install whatever i want on the laptop without issue .",general
+LAPTOP#USABILITY,1,"i 'm also not a fan of windows 8 , but fortunately i can install whatever i want on the laptop without issue .",usability
+LAPTOP#GENERAL,1,love everything about this laptop !,general
+MULTIMEDIA_DEVICES#QUALITY,1,"sound , quality and touchscreen are awesome !",quality
+LAPTOP#QUALITY,1,"sound , quality and touchscreen are awesome !",quality
+DISPLAY#GENERAL,1,"sound , quality and touchscreen are awesome !",general
+LAPTOP#GENERAL,1,i would definitely recommend this ! !,general
+LAPTOP#GENERAL,1,i love this laptop to the moon .,general
+LAPTOP#DESIGN_FEATURES,1,"my favorite colors black and red , the matte material and the red backlight of the keyboard .",design
+LAPTOP#QUALITY,1,"my favorite colors black and red , the matte material and the red backlight of the keyboard .",quality
+KEYBOARD#DESIGN_FEATURES,1,"my favorite colors black and red , the matte material and the red backlight of the keyboard .",design
+MULTIMEDIA_DEVICES#QUALITY,1,the sound is great and it 's fast .,quality
+LAPTOP#OPERATION_PERFORMANCE,1,the sound is great and it 's fast .,performance
+LAPTOP#DESIGN_FEATURES,1,"the laptop is beautiful , not extremely light but thin enough and wide screen with a full keyboard .",design
+DISPLAY#DESIGN_FEATURES,1,"the laptop is beautiful , not extremely light but thin enough and wide screen with a full keyboard .",design
+KEYBOARD#DESIGN_FEATURES,1,"the laptop is beautiful , not extremely light but thin enough and wide screen with a full keyboard .",design
+DISPLAY#OPERATION_PERFORMANCE,1,the touch screen response is fast and it picks up bluetooth and wifi fast .,performance
+LAPTOP#CONNECTIVITY,1,the touch screen response is fast and it picks up bluetooth and wifi fast .,connectivity
+SOFTWARE#MISCELLANEOUS,0,"microsoft office is a 30 day trial , a number of games and apps are already preloaded .",miscellaneous
+LAPTOP#DESIGN_FEATURES,0,"microsoft office is a 30 day trial , a number of games and apps are already preloaded .",design
+LAPTOP#MISCELLANEOUS,1,it 's exactly like the picture and i am satisfied .,miscellaneous
+LAPTOP#GENERAL,1,it 's exactly like the picture and i am satisfied .,general
+LAPTOP#GENERAL,1,great laptop light and very versatile,general
+LAPTOP#DESIGN_FEATURES,1,great laptop light and very versatile,design
+LAPTOP#USABILITY,1,great laptop light and very versatile,usability
+LAPTOP#USABILITY,1,it was easy to set up .,usability
+KEYBOARD#DESIGN_FEATURES,1,i like the number pad for work so that 's nice,design
+LAPTOP#GENERAL,1,"this is going to be random and unorganized , but here are my thoughts on the laptop : so far so good after a month .",general
+OS#USABILITY,0,"it took some getting used to on the widows 8.1 , after being an xp user for many years .",usability
+LAPTOP#OPERATION_PERFORMANCE,1,everything seems to be running smoothly .,performance
+SOFTWARE#GENERAL,-1,only downfall is the preloaded mcafee and other software .,general
+LAPTOP#DESIGN_FEATURES,-1,only downfall is the preloaded mcafee and other software .,design
+SOFTWARE#GENERAL,1,"they are fine while the free subscription is going , but a pain when they start asking you to spend money every time you login .",general
+SOFTWARE#MISCELLANEOUS,-1,"they are fine while the free subscription is going , but a pain when they start asking you to spend money every time you login .",miscellaneous
+LAPTOP#DESIGN_FEATURES,1,"device is light weight , quiet during operation and produces little to no heat .",design
+LAPTOP#QUALITY,1,"device is light weight , quiet during operation and produces little to no heat .",quality
+LAPTOP#OPERATION_PERFORMANCE,1,it has a quick start up and shut down time .,performance
+DISPLAY#QUALITY,1,the display is good quality .,quality
+LAPTOP#DESIGN_FEATURES,-1,just wish there were more usb ports .,design
+LAPTOP#GENERAL,1,"i am impressed with this computer , inexpensive but quality .",general
+LAPTOP#PRICE,1,"i am impressed with this computer , inexpensive but quality .",price
+LAPTOP#QUALITY,1,"i am impressed with this computer , inexpensive but quality .",quality
+LAPTOP#DESIGN_FEATURES,1,"love the size , i am using this for work , i am a nurse and have to chart daily , this is easy to use and i have not had any problems with it .",design
+LAPTOP#USABILITY,1,"love the size , i am using this for work , i am a nurse and have to chart daily , this is easy to use and i have not had any problems with it .",usability
+LAPTOP#GENERAL,1,"love the size , i am using this for work , i am a nurse and have to chart daily , this is easy to use and i have not had any problems with it .",general
+LAPTOP#GENERAL,1,it 's so damn good i bought 2 : d,general
+LAPTOP#MISCELLANEOUS,1,"if you 're the type of person that just likes to browse the internet and enjoy media and do light work with microsoft office , this is the laptop for you .",miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,0,do n't expect it to be a champion performer so if you want to play games or whatever this is not the computer for you .,performance
+LAPTOP#MISCELLANEOUS,-1,do n't expect it to be a champion performer so if you want to play games or whatever this is not the computer for you .,miscellaneous
+LAPTOP#DESIGN_FEATURES,1,it 's extremely light weight and slim because of the lack of an optical drive ( who uses those anymore anyways ) so it easily fits into any college students bag .,design
+LAPTOP#PORTABILITY,1,it 's extremely light weight and slim because of the lack of an optical drive ( who uses those anymore anyways ) so it easily fits into any college students bag .,portability
+LAPTOP#MISCELLANEOUS,1,i would recommend this to anyone who does n't need much out of a computer .,miscellaneous
+LAPTOP#GENERAL,1,i am very happy with this computer .,general
+LAPTOP#GENERAL,1,"it is exactly what i expected , and the price is excellent !",general
+LAPTOP#PRICE,1,"it is exactly what i expected , and the price is excellent !",price
+LAPTOP#GENERAL,1,"you are getting what you pay for and in my opinion , it is worth more .",general
+LAPTOP#PRICE,1,"you are getting what you pay for and in my opinion , it is worth more .",price
+LAPTOP#OPERATION_PERFORMANCE,1,been using it for about 4 hours now and it seems plenty fast and does everything i need it to do .,performance
+LAPTOP#GENERAL,1,been using it for about 4 hours now and it seems plenty fast and does everything i need it to do .,general
+LAPTOP#MISCELLANEOUS,0,its a very basic laptop .,miscellaneous
+LAPTOP#DESIGN_FEATURES,-1,"i thought it would have a cd-rom drive , but there isnt one .",design
+LAPTOP#DESIGN_FEATURES,-1,also wish it had a port to plug an internet cord into it because sometimes my wifi router likes to not work .,design
+LAPTOP#CONNECTIVITY,-1,also wish it had a port to plug an internet cord into it because sometimes my wifi router likes to not work .,connectivity
+LAPTOP#GENERAL,1,but for the price its good .,general
+LAPTOP#PRICE,0,but for the price its good .,price
+CPU#OPERATION_PERFORMANCE,-1,other than the slow cpu it works great for everyday use .,performance
+LAPTOP#MISCELLANEOUS,1,other than the slow cpu it works great for everyday use .,miscellaneous
+LAPTOP#MISCELLANEOUS,-1,heavy gaming is definitely not it 's strong point .,miscellaneous
+LAPTOP#QUALITY,1,the cover is a soft rubber texture without the friction .,quality
+LAPTOP#DESIGN_FEATURES,1,slick design and looks great .,design
+LAPTOP#USABILITY,1,"the machine is easy to use , has the power it needs for personal use and some light professional work .",usability
+LAPTOP#MISCELLANEOUS,1,"the machine is easy to use , has the power it needs for personal use and some light professional work .",miscellaneous
+LAPTOP#DESIGN_FEATURES,0,"it could be lighter , but could n't everything .",design
+BATTERY#OPERATION_PERFORMANCE,1,the battery seems adequate for most uses ~ 4.5 hour use/charge .,performance
+DISPLAY#QUALITY,1,screen is clear and bright .,quality
+LAPTOP#DESIGN_FEATURES,1,glad it has the dvd drive .,design
+LAPTOP#GENERAL,1,perfectly adequate .,general
+LAPTOP#GENERAL,1,great pc .,general
+CPU#OPERATION_PERFORMANCE,1,"the i7 is incredibly fast , the ram makes it proper for several games ( not on maximum quality ) .",performance
+MEMORY#DESIGN_FEATURES,1,"the i7 is incredibly fast , the ram makes it proper for several games ( not on maximum quality ) .",design
+LAPTOP#MISCELLANEOUS,1,"the i7 is incredibly fast , the ram makes it proper for several games ( not on maximum quality ) .",miscellaneous
+MULTIMEDIA_DEVICES#QUALITY,1,great sound quality too .,quality
+LAPTOP#GENERAL,1,nice laptop .,general
+LAPTOP#OPERATION_PERFORMANCE,1,"i use it for school , its quick and has everything i need on it .",performance
+LAPTOP#GENERAL,1,"i use it for school , its quick and has everything i need on it .",general
+BATTERY#OPERATION_PERFORMANCE,1,good battery life as well .,performance
+LAPTOP#CONNECTIVITY,-1,wifi card not working right out of the box .,connectivity
+HARDWARE#QUALITY,-1,wifi card not working right out of the box .,quality
+HARDWARE#OPERATION_PERFORMANCE,-1,wifi card not working right out of the box .,performance
+SUPPORT#QUALITY,-1,dealing with hp support is a ridiculous and painful experience .,quality
+SUPPORT#QUALITY,-1,"i have spent more than 2.5 hours on the phone with them ( over 4 different calls ) , only to get no where .",quality
+SUPPORT#QUALITY,-1,"now i 'm looking into the return process , which i 'm sure will just be loads of fun , if my prior experience is any indication .",quality
+COMPANY#GENERAL,-1,"seriously , save yourself the hassle and purchase from a different company .",general
+LAPTOP#GENERAL,-1,"used to love hp products , but this has soured me on the whole company .",general
+COMPANY#GENERAL,-1,"used to love hp products , but this has soured me on the whole company .",general
+LAPTOP#GENERAL,1,by far the best laptop i 've ever had .,general
+LAPTOP#OPERATION_PERFORMANCE,1,"its fast , powerful , screen display is top notch and the battery life is excellent for a laptop of this size .",performance
+DISPLAY#QUALITY,1,"its fast , powerful , screen display is top notch and the battery life is excellent for a laptop of this size .",quality
+BATTERY#OPERATION_PERFORMANCE,1,"its fast , powerful , screen display is top notch and the battery life is excellent for a laptop of this size .",performance
+LAPTOP#DESIGN_FEATURES,0,"its fast , powerful , screen display is top notch and the battery life is excellent for a laptop of this size .",design
+BATTERY#DESIGN_FEATURES,-1,"my only concern is that since the battery is not external , i will not be able to change it out once it starts not to hold a good charge over a length of time .",design
+COMPANY#GENERAL,0,i wonder if thats just apples way of saying its time to get the newest and greatest laptop 3-4 years from now lol .,general
+LAPTOP#GENERAL,0,the product is average and works well .,general
+LAPTOP#OPERATION_PERFORMANCE,1,the product is average and works well .,performance
+LAPTOP#OPERATION_PERFORMANCE,0,works at a decent speed .,performance
+MOUSE#QUALITY,-1,the mouse pad however is very loud which is why i gave it four stars .,quality
+LAPTOP#GENERAL,1,i had a great experience purchasing my dell inspiron i3531-1200bk 15.6-inch laptop .,general
+LAPTOP#USABILITY,1,"my laptop was easy to set-up , and i 've had no problems to date .",usability
+LAPTOP#GENERAL,1,"my laptop was easy to set-up , and i 've had no problems to date .",general
+LAPTOP#GENERAL,1,did not disappoint me at all .,general
+LAPTOP#GENERAL,1,lenovo is the best laptop .,general
+MULTIMEDIA_DEVICES#QUALITY,-1,built in mike is really poor and unusable for skype or any other purpose .,quality
+MULTIMEDIA_DEVICES#USABILITY,-1,built in mike is really poor and unusable for skype or any other purpose .,usability
+MULTIMEDIA_DEVICES#MISCELLANEOUS,-1,built in mike is really poor and unusable for skype or any other purpose .,miscellaneous
+LAPTOP#DESIGN_FEATURES,-1,and the only microphone input is for a combo mike/speaker plug .,design
+LAPTOP#USABILITY,-1,so to communicate i need to wear ear plugs or a headset with a built-in mike .,usability
+LAPTOP#USABILITY,-1,that 's a nuisance for family skype calls ... only one can speak at a time .,usability
+LAPTOP#GENERAL,1,"we have n't used it enough or had it long enough to give it 5 stars , but so far it has been a very good laptop .",general
+KEYBOARD#USABILITY,1,several other reviewers made comments on the keyboard and now i can understand why -- - this keyboard is the nicest to use of any laptop we 've ever owned .,usability
+KEYBOARD#GENERAL,1,"i 'm a life-long desktop computer user , and the keyboard on this laptop is as close to a `` normal '' keyboard as i 've ever seen .",general
+LAPTOP#GENERAL,1,we like this new laptop -- a lot !,general
+LAPTOP#OPERATION_PERFORMANCE,1,very good performer for the price .,performance
+LAPTOP#PRICE,0,very good performer for the price .,price
+LAPTOP#OPERATION_PERFORMANCE,1,"not blazing fast , but quick enough .",performance
+LAPTOP#DESIGN_FEATURES,1,one really nice thing about lenovo laptops is that they are not cluttered with a bunch or trial software .,design
+SOFTWARE#MISCELLANEOUS,1,one really nice thing about lenovo laptops is that they are not cluttered with a bunch or trial software .,miscellaneous
+COMPANY#GENERAL,1,one really nice thing about lenovo laptops is that they are not cluttered with a bunch or trial software .,general
+LAPTOP#DESIGN_FEATURES,1,the desktop was clean once i got it up and running .,design
+BATTERY#OPERATION_PERFORMANCE,1,"battery life is above average , and it charges quickly .",performance
+KEYBOARD#QUALITY,1,keyboard is sturdy .,quality
+MOUSE#DESIGN_FEATURES,0,the touch pad takes a little getting used to as the `` click '' buttons are on top instead of the bottom .,design
+MOUSE#USABILITY,-1,the touch pad takes a little getting used to as the `` click '' buttons are on top instead of the bottom .,usability
+COMPANY#GENERAL,1,i will be considering lenovo for all future laptop purchases .,general
+LAPTOP#GENERAL,1,this lap top is good so far .,general
+LAPTOP#QUALITY,1,it is quiet runs smoothly .,quality
+LAPTOP#OPERATION_PERFORMANCE,1,it is quiet runs smoothly .,performance
+LAPTOP#DESIGN_FEATURES,1,"i really like the video option on it , i stream movies on amazon prime and netflix and there is no lag .",design
+LAPTOP#OPERATION_PERFORMANCE,1,"i really like the video option on it , i stream movies on amazon prime and netflix and there is no lag .",performance
+LAPTOP#QUALITY,0,"the only negative would be that it gets pretty warm sitting on my lap for very long , but that is pretty much standard for all lop tops i think .",quality
+LAPTOP#OPERATION_PERFORMANCE,-1,it stopped working 31 days after purchase .,performance
+LAPTOP#QUALITY,-1,it stopped working 31 days after purchase .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,it was slow and might be problematic .,performance
+LAPTOP#GENERAL,-1,it was slow and might be problematic .,general
+LAPTOP#GENERAL,-1,i would shop around for a better one .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,crashed only 2 days from getting it ! ! ! !,performance
+LAPTOP#QUALITY,-1,crashed only 2 days from getting it ! ! ! !,quality
+HARD_DISC#QUALITY,-1,says it is failing hard drive .,quality
+LAPTOP#GENERAL,-1,i should have bought something better .,general
+LAPTOP#OPERATION_PERFORMANCE,1,"the pc is works well with a good battery and a power cable , and has a web cam .",performance
+BATTERY#GENERAL,1,"the pc is works well with a good battery and a power cable , and has a web cam .",general
+LAPTOP#DESIGN_FEATURES,1,"the pc is works well with a good battery and a power cable , and has a web cam .",design
+LAPTOP#DESIGN_FEATURES,-1,"however , it does not have a dvd drive , neither does it afford one the opportunity to connect an external dvd drive as the manufacturer did not make any point ofconnection of an external drive .",design
+LAPTOP#USABILITY,-1,"however , it does not have a dvd drive , neither does it afford one the opportunity to connect an external dvd drive as the manufacturer did not make any point ofconnection of an external drive .",usability
+LAPTOP#CONNECTIVITY,-1,"however , it does not have a dvd drive , neither does it afford one the opportunity to connect an external dvd drive as the manufacturer did not make any point ofconnection of an external drive .",connectivity
+LAPTOP#GENERAL,1,"other than a hate of windows 8 , she just loves it .",general
+OS#GENERAL,-1,"other than a hate of windows 8 , she just loves it .",general
+LAPTOP#QUALITY,-1,the plastic materials are rather cheap .,quality
+LAPTOP#GENERAL,1,love it !,general
+LAPTOP#MISCELLANEOUS,-1,needs more instructions with it,miscellaneous
+LAPTOP#GENERAL,1,"i 'm very happy with my acer , it does just for what i need it .",general
+MULTIMEDIA_DEVICES#QUALITY,1,even the sound is fantastic,quality
+LAPTOP#GENERAL,1,i love this laptop .,general
+LAPTOP#DESIGN_FEATURES,1,even my extremely tech savvy boyfriend was impressed with the features and sleek design .,design
+LAPTOP#GENERAL,1,"although i 've had it for less than a week , i am very satisfied .",general
+LAPTOP#OPERATION_PERFORMANCE,1,functions well .,performance
+LAPTOP#GENERAL,1,does all that was advertised .,general
+LAPTOP#GENERAL,1,"if it had a 4,5 star option , that is what i would give .",general
+LAPTOP#QUALITY,1,"the build is perfect , the screen fantastic , but i do have a bit of a problem with the fact that i have to buy adaptors for nearly everything , from vga cables to ethernet cables , so , almost perfect ...",quality
+DISPLAY#GENERAL,1,"the build is perfect , the screen fantastic , but i do have a bit of a problem with the fact that i have to buy adaptors for nearly everything , from vga cables to ethernet cables , so , almost perfect ...",general
+LAPTOP#CONNECTIVITY,-1,"the build is perfect , the screen fantastic , but i do have a bit of a problem with the fact that i have to buy adaptors for nearly everything , from vga cables to ethernet cables , so , almost perfect ...",connectivity
+LAPTOP#USABILITY,-1,"the build is perfect , the screen fantastic , but i do have a bit of a problem with the fact that i have to buy adaptors for nearly everything , from vga cables to ethernet cables , so , almost perfect ...",usability
+DISPLAY#GENERAL,1,1.great display .,general
+DISPLAY#QUALITY,1,love the color accuracy .,quality
+MULTIMEDIA_DEVICES#GENERAL,1,2.very decent speakers .,general
+LAPTOP#OPERATION_PERFORMANCE,1,3.fairly fast .,performance
+FANS_COOLING#QUALITY,-1,4.loud fan when watching 4k video off youtube .,quality
+FANS_COOLING#QUALITY,-1,sounds like a washer .,quality
+LAPTOP#QUALITY,-1,machine gets fairly hot near the bottom of the screen .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,battery power laptop had difficulties computing .,performance
+LAPTOP#USABILITY,-1,battery power laptop had difficulties computing .,usability
+LAPTOP#DESIGN_FEATURES,-1,6.still feels too heavy to me .,design
+LAPTOP#DESIGN_FEATURES,-1,could lose another pound or two .,design
+LAPTOP#PRICE,-1,7.expensive .,price
+LAPTOP#PRICE,-1,paid close to $ 2800 out the door .,price
+LAPTOP#QUALITY,-1,biggest piece of junk i have ever purchased .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,this clunker however stopped working after only two weeks of having it delivered .,performance
+LAPTOP#QUALITY,-1,this clunker however stopped working after only two weeks of having it delivered .,quality
+LAPTOP#OPERATION_PERFORMANCE,-1,it would have a full charge yet would turn itself off for no explainable reason after being on for 5 minutes .,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,"the second one , after a little over a month , refused to turn on even with a full charge .",performance
+LAPTOP#QUALITY,-1,"the second one , after a little over a month , refused to turn on even with a full charge .",quality
+LAPTOP#QUALITY,-1,what a lemon ! !,quality
+LAPTOP#GENERAL,-1,this is a big disappointment .,general
+LAPTOP#MISCELLANEOUS,-1,"i only use a laptop for personal use , but this one ca n't even handle that !",miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,-1,it takes a long time to load any page .,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,i 've had it for a minth and so far it 's shut down completely 3 times .,performance
+LAPTOP#QUALITY,-1,i 've had it for a minth and so far it 's shut down completely 3 times .,quality
+LAPTOP#GENERAL,-1,"i have had dell desktops for years , so had no qualms about buying a dell laptop .",general
+COMPANY#GENERAL,-1,"i have had dell desktops for years , so had no qualms about buying a dell laptop .",general
+COMPANY#GENERAL,1,i 've always sworn by dell .,general
+LAPTOP#DESIGN_FEATURES,1,"so with this new order , all the upgrades and windows 8 really caught my eye and i got this for the long haul .",design
+OS#GENERAL,1,"so with this new order , all the upgrades and windows 8 really caught my eye and i got this for the long haul .",general
+LAPTOP#OPERATION_PERFORMANCE,-1,i am not ultra tech savvy but i can tell when it works slow !,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,i barely have any files or downloads and its almost impossible to get this thing to load .,performance
+LAPTOP#CONNECTIVITY,-1,i barely have any files or downloads and its almost impossible to get this thing to load .,connectivity
+LAPTOP#GENERAL,-1,i 'm so disappointed .,general
+POWER_SUPPLY#QUALITY,-1,"in two months , both the power cord pin broke ( the company replaced it ) and then the cd drive literally jumped out of the laptop unannounced and shattered into a million pieces .",quality
+SUPPORT#QUALITY,1,"in two months , both the power cord pin broke ( the company replaced it ) and then the cd drive literally jumped out of the laptop unannounced and shattered into a million pieces .",quality
+OPTICAL_DRIVES#QUALITY,-1,"in two months , both the power cord pin broke ( the company replaced it ) and then the cd drive literally jumped out of the laptop unannounced and shattered into a million pieces .",quality
+SOFTWARE#OPERATION_PERFORMANCE,-1,"in addition , no matter what i do to change the settings , add/delete flash , etc. , firefox hangs on start-up .",performance
+LAPTOP#DESIGN_FEATURES,-1,it seems like lenovo also makes weird choices about which side to put the powercord and other slots on .,design
+COMPANY#GENERAL,-1,it seems like lenovo also makes weird choices about which side to put the powercord and other slots on .,general
+LAPTOP#DESIGN_FEATURES,-1,the cords always feel like they are in my way .,design
+KEYBOARD#DESIGN_FEATURES,1,"one positive aspect of this laptop is the keyboard , which is larger than usual .",design
+KEYBOARD#USABILITY,1,it 's a pleasure to type on .,usability
+LAPTOP#MISCELLANEOUS,-1,"my final thoughts : if you are a mac user , stay away .",miscellaneous
+LAPTOP#PORTABILITY,-1,"if you want to travel with this laptop , do n't buy it .",portability
+LAPTOP#PORTABILITY,-1,"it 's clunky , heavy , and a pain to start up and shut down .",portability
+LAPTOP#DESIGN_FEATURES,-1,"it 's clunky , heavy , and a pain to start up and shut down .",design
+LAPTOP#OPERATION_PERFORMANCE,-1,"it 's clunky , heavy , and a pain to start up and shut down .",performance
+LAPTOP#MISCELLANEOUS,1,great for games,miscellaneous
+LAPTOP#GENERAL,1,it 's truly a great laptop for the price .,general
+LAPTOP#PRICE,0,it 's truly a great laptop for the price .,price
+LAPTOP#MISCELLANEOUS,1,"however , this laptop far exceeded my expectations when i bought it for college , i only use malwarebytes and microsoft security essentials , run a virus scan maybe once a week and it has ran smoother than butter for the past two years .",miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,1,"however , this laptop far exceeded my expectations when i bought it for college , i only use malwarebytes and microsoft security essentials , run a virus scan maybe once a week and it has ran smoother than butter for the past two years .",performance
+LAPTOP#PRICE,1,"for $ 250 , which is as much as my graphics card alone cost , this laptop is an incredible value .",price
+LAPTOP#GENERAL,1,"for $ 250 , which is as much as my graphics card alone cost , this laptop is an incredible value .",general
+LAPTOP#OPERATION_PERFORMANCE,1,"it is quite impressive at multitasking , which really surprised me .",performance
+LAPTOP#OPERATION_PERFORMANCE,1,i can have tabs open while playing youtube videos and it handles it impressively well .,performance
+DISPLAY#GENERAL,0,"but i should tell you that this laptop does not have the best screen , it 's certainly good enough for the average person , but if you 're used to good screens this may bother you a bit , but it 's certainly not unbearable by anyone 's standards .",general
+LAPTOP#MISCELLANEOUS,-1,"if you want to game , this thing can handle league of legends on medium-low settings , but i certainly would n't recommend it for gaming .",miscellaneous
+LAPTOP#MISCELLANEOUS,1,"overall , a great laptop for simply doing basic things and web-browsing .",miscellaneous
+LAPTOP#MISCELLANEOUS,1,would definitely recommend for those who are `` technologically ignorant '',miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,-1,this computer is very slow,performance
+LAPTOP#GENERAL,1,i love this laptop !,general
+LAPTOP#GENERAL,1,it does everything i need it too !,general
+LAPTOP#PRICE,1,very good price .,price
+LAPTOP#GENERAL,1,very nice computer,general
+MOUSE#GENERAL,-1,immediately did n't like the track buttons .,general
+MOUSE#QUALITY,-1,they are loud and clunky but i figured i 'd get used to it .,quality
+MOUSE#DESIGN_FEATURES,-1,they are loud and clunky but i figured i 'd get used to it .,design
+MOUSE#USABILITY,0,they are loud and clunky but i figured i 'd get used to it .,usability
+LAPTOP#QUALITY,-1,the laptop died two days after i received it .,quality
+LAPTOP#GENERAL,1,"i purchased a dell inspiron i3531-1200bk and so far i love it , this model has a true life monitor , which is worth the extra bucks .",general
+DISPLAY#DESIGN_FEATURES,1,"i purchased a dell inspiron i3531-1200bk and so far i love it , this model has a true life monitor , which is worth the extra bucks .",design
+LAPTOP#PRICE,0,"i purchased a dell inspiron i3531-1200bk and so far i love it , this model has a true life monitor , which is worth the extra bucks .",price
+LAPTOP#MISCELLANEOUS,1,if you 're looking for a basic pc this is the way to go .,miscellaneous
+LAPTOP#QUALITY,1,the hinges on this pc are nice and tight and well made like the rest of the pc .,quality
+LAPTOP#QUALITY,1,i was surprised at the overall quality and the price,quality
+LAPTOP#PRICE,1,i was surprised at the overall quality and the price,price
+LAPTOP#OPERATION_PERFORMANCE,-1,"in all my life i have never come across a computer as slow as this one , it cant perform basic operations and is practically useless .",performance
+LAPTOP#GENERAL,-1,"in all my life i have never come across a computer as slow as this one , it cant perform basic operations and is practically useless .",general
+LAPTOP#OPERATION_PERFORMANCE,-1,i just received the laptop and if it runs like this already cant imagine how it would work in the next couple of weeks .,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,it took almost 20 minutes to boot up .,performance
+LAPTOP#GENERAL,-1,please people dont make the same mistake i did .,general
+LAPTOP#GENERAL,-1,"this is a complete waste of money , dont let the price fool you !",general
+LAPTOP#PRICE,0,"this is a complete waste of money , dont let the price fool you !",price
+LAPTOP#GENERAL,1,would be a very nice laptop if the mousepad worked properly .,general
+MOUSE#OPERATION_PERFORMANCE,-1,would be a very nice laptop if the mousepad worked properly .,performance
+MOUSE#OPERATION_PERFORMANCE,-1,it was not responsive at all to touch .,performance
+MOUSE#OPERATION_PERFORMANCE,-1,"and while tapping the mousepad to try to get it to work , your palm would inevitably touch the side which would pull up the side windows and block your ability to find the mouse .",performance
+MOUSE#USABILITY,-1,"and while tapping the mousepad to try to get it to work , your palm would inevitably touch the side which would pull up the side windows and block your ability to find the mouse .",usability
+LAPTOP#GENERAL,1,"if they can fix this , i think it would be a very nice , cost-effective laptop .",general
+LAPTOP#PRICE,1,"if they can fix this , i think it would be a very nice , cost-effective laptop .",price
+LAPTOP#QUALITY,-1,this laptop broke within the first hour of use .,quality
+KEYBOARD#QUALITY,-1,the 'a ' key became jammed so that sometimes it would n't press in .,quality
+COMPANY#GENERAL,-1,dell claims they test each key with thousands of mechanical key strokes .,general
+LAPTOP#QUALITY,-1,"also , after restarting the laptop it constantly made high pitched electronic noises .",quality
+LAPTOP#QUALITY,-1,"i 'm sure i just got a bad egg , but instead of getting a replacement i decided to try a different one .",quality
+LAPTOP#GENERAL,-1,"i 'm sure i just got a bad egg , but instead of getting a replacement i decided to try a different one .",general
+LAPTOP#GENERAL,1,this laptop is nice .,general
+LAPTOP#QUALITY,1,"it has a decent feel to it , sharp display and is fast enough .",quality
+DISPLAY#QUALITY,0,"it has a decent feel to it , sharp display and is fast enough .",quality
+LAPTOP#OPERATION_PERFORMANCE,1,"it has a decent feel to it , sharp display and is fast enough .",performance
+MOUSE#OPERATION_PERFORMANCE,-1,the biggest problem i have is the right side and top of the touchpad is unresponsive .,performance
+MOUSE#OPERATION_PERFORMANCE,-1,"i have updated the drivers and tweeked every feature available , but nothing has helped .",performance
+MOUSE#OPERATION_PERFORMANCE,-1,"also , the touchpad is almost 'sticky ' , which kind of defeats the purpose of a touchpad .",performance
+MOUSE#USABILITY,-1,"also , the touchpad is almost 'sticky ' , which kind of defeats the purpose of a touchpad .",usability
+LAPTOP#GENERAL,-1,"i would love to keep this laptop , but will be sending it back and looking for a different brand .",general
+COMPANY#GENERAL,-1,"i would love to keep this laptop , but will be sending it back and looking for a different brand .",general
+COMPANY#GENERAL,-1,no lenovo for me .,general
+LAPTOP#GENERAL,1,initially i liked the product so much .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,although it was slow but i felt it was ok for the price you have bought it .,performance
+LAPTOP#GENERAL,0,although it was slow but i felt it was ok for the price you have bought it .,general
+LAPTOP#PRICE,0,although it was slow but i felt it was ok for the price you have bought it .,price
+BATTERY#GENERAL,-1,but now i am having battery problems .,general
+LAPTOP#OPERATION_PERFORMANCE,-1,laptop automatically shuts down when battery life reaches 30 % .,performance
+LAPTOP#GENERAL,-1,i am not satisfied with the product .,general
+LAPTOP#GENERAL,1,it 's an amazing laptop .,general
+LAPTOP#GENERAL,1,most of the things about the laptop is awesome except the touchpad .,general
+MOUSE#GENERAL,-1,most of the things about the laptop is awesome except the touchpad .,general
+LAPTOP#OPERATION_PERFORMANCE,1,the laptop is fast .,performance
+OS#OPERATION_PERFORMANCE,1,the windows 8.1 used to boot in just 2s and that was freaking awesome .,performance
+LAPTOP#OPERATION_PERFORMANCE,1,now i have dual booted my laptop to windows 8.1 and ubuntu 14.04 and it 's not got too slow either .,performance
+LAPTOP#GENERAL,1,i am loving it completely .,general
+LAPTOP#QUALITY,0,it does make a little noise but that 's alright as it 's not too much .,quality
+LAPTOP#QUALITY,1,it does n't get heated up much even after continuous usage .,quality
+MOUSE#DESIGN_FEATURES,-1,"but the touchpad is soooooooooo big that whenever i am typing , my palm touches some part of it and then the cursor goes somewhere else and it 's really annoying .",design
+MOUSE#USABILITY,-1,"but the touchpad is soooooooooo big that whenever i am typing , my palm touches some part of it and then the cursor goes somewhere else and it 's really annoying .",usability
+MOUSE#DESIGN_FEATURES,-1,"i prefer typing without having to see the keyboard but due the large touchpad , i always have to type cautiously as my hand might take me somewhere else .",design
+MOUSE#USABILITY,-1,"i prefer typing without having to see the keyboard but due the large touchpad , i always have to type cautiously as my hand might take me somewhere else .",usability
+MOUSE#DESIGN_FEATURES,-1,a smaller touchpad would make life easier for computer science students or it people much more easier .,design
+MOUSE#USABILITY,-1,a smaller touchpad would make life easier for computer science students or it people much more easier .,usability
+LAPTOP#DESIGN_FEATURES,1,"uhhhhhh , the computer looks good .",design
+LAPTOP#OPERATION_PERFORMANCE,-1,"but , it works really slowwwwww ! ! !",performance
+LAPTOP#OPERATION_PERFORMANCE,-1,it has got me feel like to take years to successfully open a web page .,performance
+LAPTOP#GENERAL,1,purchased it for my birthday and love it !,general
+LAPTOP#GENERAL,1,i 'm so glad that i have .,general
+LAPTOP#USABILITY,1,it 's been a very easy transition moving my windows created files over to the mac .,usability
+LAPTOP#QUALITY,1,so far i have n't lost any quality or information .,quality
+LAPTOP#MISCELLANEOUS,1,so far i have n't lost any quality or information .,miscellaneous
+KEYBOARD#USABILITY,0,i have a little bit of a learning curve with the keyboard shortcuts .,usability
+LAPTOP#QUALITY,1,"but other than that , i really am loving the quality and speed .",quality
+LAPTOP#OPERATION_PERFORMANCE,1,"but other than that , i really am loving the quality and speed .",performance
+LAPTOP#PRICE,-1,expensive but worth it .,price
+LAPTOP#GENERAL,1,expensive but worth it .,general
+DISPLAY#QUALITY,1,the display has a great resolution but have difficulty always seeing the small print .,quality
+DISPLAY#USABILITY,-1,the display has a great resolution but have difficulty always seeing the small print .,usability
+LAPTOP#USABILITY,0,have n't quite figured out how to make the font size larger overall .,usability
+LAPTOP#GENERAL,-1,this is without a doubt the worst laptop i 've ever had .,general
+LAPTOP#GENERAL,-1,"and of course , the return window closed last week so now , i 'm stuck with it .",general
+LAPTOP#GENERAL,-1,i will never buy another lenovo anything !,general
+COMPANY#GENERAL,-1,i will never buy another lenovo anything !,general
+MOUSE#GENERAL,-1,"unless you plan on using a mouse with this laptop , do n't buy this .",general
+MOUSE#OPERATION_PERFORMANCE,-1,"the touchpad has n't worked correctly since delivery though in the beginning , i thought perhaps it was just a bit of a quirk since most touchpads i 've worked with have some inherent oddities .",performance
+MOUSE#QUALITY,-1,"the touchpad has n't worked correctly since delivery though in the beginning , i thought perhaps it was just a bit of a quirk since most touchpads i 've worked with have some inherent oddities .",quality
+MOUSE#QUALITY,-1,"this one however , is now very loose and i have to either tap hard or repeatedly push to click in order for it to work , then suddenly , i can barely touch it at all and it clicks on its own .",quality
+MOUSE#OPERATION_PERFORMANCE,-1,"this one however , is now very loose and i have to either tap hard or repeatedly push to click in order for it to work , then suddenly , i can barely touch it at all and it clicks on its own .",performance
+MOUSE#USABILITY,-1,"this one however , is now very loose and i have to either tap hard or repeatedly push to click in order for it to work , then suddenly , i can barely touch it at all and it clicks on its own .",usability
+MOUSE#OPERATION_PERFORMANCE,-1,"today , it has n't worked at all more than it has .",performance
+LAPTOP#OPERATION_PERFORMANCE,-1,"it hangs , freezes and just is n't working properly .",performance
+LAPTOP#OPERATION_PERFORMANCE,-1,i have now been waiting almost a minute for the computer management window to open !,performance
+LAPTOP#MISCELLANEOUS,-1,"though i do n't have much installed , i only have 96 of the 278g left !",miscellaneous
+LAPTOP#MISCELLANEOUS,-1,"i have no idea what 's taking up all the room , it does n't make sense .",miscellaneous
+LAPTOP#GENERAL,-1,"i could go on and on , but suffice it to say , if you want to spend $ 400+ on a laptop , do n't buy this one !",general
+LAPTOP#GENERAL,-1,it 's definitely not worth the money .,general
+LAPTOP#PRICE,-1,it 's definitely not worth the money .,price
+LAPTOP#OPERATION_PERFORMANCE,1,very fast and good for most steam games .,performance
+LAPTOP#MISCELLANEOUS,1,very fast and good for most steam games .,miscellaneous
+GRAPHICS#GENERAL,0,"do n't expect great graphics , though .",general
+KEYBOARD#GENERAL,1,"the keyboard and sound are great , and the matte screen works well .",general
+MULTIMEDIA_DEVICES#QUALITY,1,"the keyboard and sound are great , and the matte screen works well .",quality
+DISPLAY#OPERATION_PERFORMANCE,1,"the keyboard and sound are great , and the matte screen works well .",performance
+DISPLAY#OPERATION_PERFORMANCE,1,can run cs : go at 60 fps on low settings .,performance
+LAPTOP#QUALITY,-1,computer was doa .,quality
+LAPTOP#QUALITY,-1,turned it on and it was beeping .,quality
+LAPTOP#GENERAL,1,i love this laptop .,general
+LAPTOP#DESIGN_FEATURES,1,"looks good , well built , and very good speed .",design
+LAPTOP#QUALITY,1,"looks good , well built , and very good speed .",quality
+LAPTOP#OPERATION_PERFORMANCE,1,"looks good , well built , and very good speed .",performance
+LAPTOP#CONNECTIVITY,0,"needed a 2 usb adapt . for network plug , no problem .",connectivity
+KEYBOARD#GENERAL,1,"keyboard is nice and windows 8.1 is great , worried about that coming from xp .",general
+OS#GENERAL,1,"keyboard is nice and windows 8.1 is great , worried about that coming from xp .",general
+LAPTOP#PRICE,1,price makes this the laptop i was looking for .,price
+LAPTOP#GENERAL,1,price makes this the laptop i was looking for .,general
+LAPTOP#GENERAL,1,so far i am very happy with this computer .,general
+LAPTOP#GENERAL,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",general
+LAPTOP#DESIGN_FEATURES,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",design
+LAPTOP#CONNECTIVITY,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",connectivity
+DISPLAY#DESIGN_FEATURES,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",design
+DISPLAY#GENERAL,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",general
+KEYBOARD#QUALITY,1,"it has everything i wanted -- built in wi-fi connectibility , a slot for my sd camera memory card , a dvd burner , big beautiful screen , plenty of usb ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch .",quality
+OS#GENERAL,1,"i liked the fact that it came with windows 7 , but also included windows 8 to install later if i need it .",general
+LAPTOP#DESIGN_FEATURES,1,"i liked the fact that it came with windows 7 , but also included windows 8 to install later if i need it .",design
+LAPTOP#MISCELLANEOUS,1,"i liked the fact that it came with windows 7 , but also included windows 8 to install later if i need it .",miscellaneous
+LAPTOP#PRICE,1,the price was good .,price
+MOUSE#OPERATION_PERFORMANCE,1,"i use a wireless mouse , but the touch pad and the `` red button '' in the middle that works like a little `` joystick '' also work fine .",performance
+LAPTOP#GENERAL,1,i wish i had bought this sooner !,general
+LAPTOP#PRICE,1,this is a great bargain .,price
+CPU#DESIGN_FEATURES,0,"yes , it 's running and old type processor so , hey , do n't even try gaming on it .",design
+LAPTOP#MISCELLANEOUS,-1,"yes , it 's running and old type processor so , hey , do n't even try gaming on it .",miscellaneous
+LAPTOP#MISCELLANEOUS,1,"but , if you are just an average user , it works really great .",miscellaneous
+DISPLAY#GENERAL,1,"the screen is good , the whole things is very light and does n't run hot .",general
+LAPTOP#DESIGN_FEATURES,1,"the screen is good , the whole things is very light and does n't run hot .",design
+LAPTOP#QUALITY,1,"the screen is good , the whole things is very light and does n't run hot .",quality
+LAPTOP#GENERAL,1,"i 'm very happy with it , typing on it right now and it is fast enough for that !",general
+LAPTOP#OPERATION_PERFORMANCE,1,"i 'm very happy with it , typing on it right now and it is fast enough for that !",performance
+LAPTOP#GENERAL,1,i like everything about this laptop .,general
+LAPTOP#CONNECTIVITY,0,it has no way of connecting to the internet save wifi but that 's all i use anyway !,connectivity
+SOFTWARE#OPERATION_PERFORMANCE,1,i put that free app on for word processing and it works like a charm .,performance
+LAPTOP#CONNECTIVITY,1,"i plugged it into my existing printers and it just worked , no fuss no muss .",connectivity
+LAPTOP#USABILITY,1,"i plugged it into my existing printers and it just worked , no fuss no muss .",usability
+LAPTOP#CONNECTIVITY,1,it immediately recognized the printer and was ready to go .,connectivity
+LAPTOP#USABILITY,1,it immediately recognized the printer and was ready to go .,usability
+LAPTOP#GENERAL,1,excellent buy .,general
+LAPTOP#GENERAL,-1,the worst computer i have ever laid my eyes upon .,general
+LAPTOP#DESIGN_FEATURES,-1,"firstly , it has no leds to let you know what is going on , no cap lock , no hard drive indicator , nothing .",design
+LAPTOP#DESIGN_FEATURES,-1,"ok , one light to let you know if the damn thing is on .",design
+LAPTOP#CONNECTIVITY,-1,"the biggie though is the fact that it disconnects from the internet whenever if feels like it , even when the strength bar is filled .",connectivity
+LAPTOP#CONNECTIVITY,-1,"also , when you try to download a large file , like a video , it will start out normally , downloading at around 600kb/sec and over the course of a couple of minutes will slow waaaaaay down to around 20kb/sec , making a download of a couple minutes into several hours making it worthless .",connectivity
+LAPTOP#OPERATION_PERFORMANCE,-1,"also , when you try to download a large file , like a video , it will start out normally , downloading at around 600kb/sec and over the course of a couple of minutes will slow waaaaaay down to around 20kb/sec , making a download of a couple minutes into several hours making it worthless .",performance
+LAPTOP#USABILITY,-1,"also , when you try to download a large file , like a video , it will start out normally , downloading at around 600kb/sec and over the course of a couple of minutes will slow waaaaaay down to around 20kb/sec , making a download of a couple minutes into several hours making it worthless .",usability
+LAPTOP#CONNECTIVITY,-1,too often i would find it not being able to stay connected to the internet .,connectivity
+LAPTOP#USABILITY,-1,i was unable to download itunes to it .,usability
+SUPPORT#GENERAL,-1,dell support was awful to deal with .,general
+LAPTOP#MISCELLANEOUS,-1,and the settings are simply annoying .,miscellaneous
+LAPTOP#GENERAL,-1,just not for me .,general
+LAPTOP#GENERAL,1,"the computer is as expected , and worth the money .",general
+LAPTOP#PRICE,1,"the computer is as expected , and worth the money .",price
+OS#GENERAL,-1,the 8.1 windows is a major disappointment .,general
+OS#USABILITY,-1,operating a non touch screen on this system is a royal pain !,usability
+LAPTOP#MISCELLANEOUS,-1,it came with no instruction book - no back up cd 's and has already crashed .,miscellaneous
+LAPTOP#OPERATION_PERFORMANCE,-1,it came with no instruction book - no back up cd 's and has already crashed .,performance
+LAPTOP#QUALITY,-1,it came with no instruction book - no back up cd 's and has already crashed .,quality
+LAPTOP#GENERAL,1,hands down one of my best and most used purchases thus far .,general
+LAPTOP#GENERAL,1,the mid-2014 macbook pro does no disappoint ...,general
+DISPLAY#QUALITY,1,"retina screen , solid build quality , weight , fast processor and the reliability of the apple brand .",quality
+LAPTOP#QUALITY,1,"retina screen , solid build quality , weight , fast processor and the reliability of the apple brand .",quality
+LAPTOP#DESIGN_FEATURES,1,"retina screen , solid build quality , weight , fast processor and the reliability of the apple brand .",design
+CPU#OPERATION_PERFORMANCE,1,"retina screen , solid build quality , weight , fast processor and the reliability of the apple brand .",performance
+COMPANY#GENERAL,1,"retina screen , solid build quality , weight , fast processor and the reliability of the apple brand .",general
+LAPTOP#GENERAL,1,"cons : honestly zero con 's ... as a windows pc user the switch over was seamlessly , i run parallel when i need windows .",general
+LAPTOP#USABILITY,1,"cons : honestly zero con 's ... as a windows pc user the switch over was seamlessly , i run parallel when i need windows .",usability
+LAPTOP#USABILITY,1,all my devices work flawlessly .,usability
+LAPTOP#GENERAL,1,"i 'm an amature , so this does more than i can handle .",general
+LAPTOP#GENERAL,1,"i 'm perfectly satisfied , just have to get use to the new 6.1 system i ca n't see a problem .",general
+OS#USABILITY,0,"i 'm perfectly satisfied , just have to get use to the new 6.1 system i ca n't see a problem .",usability
+LAPTOP#GENERAL,1,"i ' doi9ng fine now , and happy as a bug .",general
+LAPTOP#PRICE,1,"the price is great and it does everything i want to do , thanks .",price
+LAPTOP#GENERAL,1,"the price is great and it does everything i want to do , thanks .",general
+LAPTOP#GENERAL,1,it 's perfect !,general
+LAPTOP#MISCELLANEOUS,1,it 's great for what he uses it for .,miscellaneous
+LAPTOP#GENERAL,-1,i am really not happy with this computer ...,general
+OS#GENERAL,-1,i do n't like windows 8 but that is no fault of the computer but the keyboard is so hard to get the keys to work and the space bar .,general
+KEYBOARD#USABILITY,-1,i do n't like windows 8 but that is no fault of the computer but the keyboard is so hard to get the keys to work and the space bar .,usability
+LAPTOP#GENERAL,-1,would not buy it again .,general
+LAPTOP#GENERAL,0,meh ... but cheap .,general
+LAPTOP#PRICE,1,meh ... but cheap .,price
+LAPTOP#DESIGN_FEATURES,1,the first thing i can say for positive is that the laptop is very light- makes it really portable..this with a relatively clear screen is a bonus .,design
+LAPTOP#PORTABILITY,1,the first thing i can say for positive is that the laptop is very light- makes it really portable..this with a relatively clear screen is a bonus .,portability
+DISPLAY#QUALITY,1,the first thing i can say for positive is that the laptop is very light- makes it really portable..this with a relatively clear screen is a bonus .,quality
+GRAPHICS#QUALITY,-1,now the graphics are not hd ... and the reason that it is light is that it is really basic ( medium low grade ) plastic .,quality
+LAPTOP#DESIGN_FEATURES,0,now the graphics are not hd ... and the reason that it is light is that it is really basic ( medium low grade ) plastic .,design
+LAPTOP#QUALITY,-1,now the graphics are not hd ... and the reason that it is light is that it is really basic ( medium low grade ) plastic .,quality
+LAPTOP#QUALITY,-1,"so if you do n't have kids , or not in high school or do n't accidently sit on it , it should be fine .",quality
+LAPTOP#OPERATION_PERFORMANCE,-1,now the speed is disappointing .,performance
+LAPTOP#OPERATION_PERFORMANCE,-1,"start up is fine maybe 20 secs at most , but then to get pages to load on internet is molasses at times .",performance
+LAPTOP#OPERATION_PERFORMANCE,-1,even for a 4gb ram it barely chugs with 3 tabs open .,performance
+MEMORY#DESIGN_FEATURES,0,even for a 4gb ram it barely chugs with 3 tabs open .,design
+LAPTOP#GENERAL,-1,all in all i wish i had waited a bit .,general
+LAPTOP#GENERAL,1,this laptop is amazing !,general
+OS#GENERAL,0,windows 8.1 has its pros and cons .,general
+KEYBOARD#DESIGN_FEATURES,1,the keyboard is backlit but you have to press the f5 key to turn it on .,design
+KEYBOARD#USABILITY,0,the keyboard is backlit but you have to press the f5 key to turn it on .,usability
+LAPTOP#MISCELLANEOUS,1,i was nervous at first that i purchased a lemon but the user manual explains how to turn on the keyboard backlight .,miscellaneous
+LAPTOP#MISCELLANEOUS,0,of course this will decrease your battery life .,miscellaneous
+MULTIMEDIA_DEVICES#QUALITY,1,the sound is very nice and crisp .,quality
+MEMORY#DESIGN_FEATURES,1,"also , i have no regrets about going with the 8gb ram because its super fast .",design
+LAPTOP#OPERATION_PERFORMANCE,1,"also , i have no regrets about going with the 8gb ram because its super fast .",performance
+LAPTOP#DESIGN_FEATURES,0,i 'm still exploring the various features but overall i am satisfied with my purchase .,design
+LAPTOP#GENERAL,1,i 'm still exploring the various features but overall i am satisfied with my purchase .,general
+LAPTOP#GENERAL,1,the hp envy 15 has been everything i expected .,general
+LAPTOP#DESIGN_FEATURES,1,"after doing much research for a laptop that had all the features i was looking for , this one hit all the criteria i had .",design
+LAPTOP#OPERATION_PERFORMANCE,1,the laptop is very responsice with the core i7 processor and 8gb of ram and the sound out of the beats audio is great .,performance
+CPU#OPERATION_PERFORMANCE,1,the laptop is very responsice with the core i7 processor and 8gb of ram and the sound out of the beats audio is great .,performance
+MEMORY#DESIGN_FEATURES,1,the laptop is very responsice with the core i7 processor and 8gb of ram and the sound out of the beats audio is great .,design
+SOFTWARE#QUALITY,1,the laptop is very responsice with the core i7 processor and 8gb of ram and the sound out of the beats audio is great .,quality
+LAPTOP#OPERATION_PERFORMANCE,1,i would highly recommend this product to anyone looking for a top performing laptop .,performance
+DISPLAY#OPERATION_PERFORMANCE,-1,used 6 times black screen returned for refund,performance
+LAPTOP#GENERAL,-1,used 6 times black screen returned for refund,general
+LAPTOP#QUALITY,-1,used 6 times black screen returned for refund,quality
+SOFTWARE#GENERAL,-1,do not use the facial recognition,general
+OS#USABILITY,-1,windows 8 is not supported by a lot of things !,usability
+LAPTOP#OPERATION_PERFORMANCE,1,"the dell is quick enough , sturdy , not good with finger prints .",performance
+LAPTOP#QUALITY,1,"the dell is quick enough , sturdy , not good with finger prints .",quality
+LAPTOP#QUALITY,-1,"the dell is quick enough , sturdy , not good with finger prints .",quality
+LAPTOP#GENERAL,1,it does what it advertises .,general
+LAPTOP#PRICE,1,"price is great , wish it did n't have windows 8 , but that is an opinion .",price
+OS#GENERAL,-1,"price is great , wish it did n't have windows 8 , but that is an opinion .",general
+LAPTOP#QUALITY,1,"i would recommend it , for anybody needing a reliable simple laptop .",quality
+LAPTOP#OPERATION_PERFORMANCE,-1,"i bought this for my daughter to use for school and homework , it 's not a `` fast '' computer , but it 's great for what she needs it for and very light weight !",performance
+LAPTOP#DESIGN_FEATURES,1,"i bought this for my daughter to use for school and homework , it 's not a `` fast '' computer , but it 's great for what she needs it for and very light weight !",design
+LAPTOP#MISCELLANEOUS,1,"i bought this for my daughter to use for school and homework , it 's not a `` fast '' computer , but it 's great for what she needs it for and very light weight !",miscellaneous
+LAPTOP#PRICE,1,love the price too !,price
