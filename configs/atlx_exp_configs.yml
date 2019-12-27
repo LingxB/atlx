@@ -1,0 +1,61 @@
+exp_1:
+  # Description
+  description: >
+    Baseline
+  # Hyper parameters
+  hyperparams: &h1
+    epochs: 35
+    batch_size: 25
+    shuffle: True
+    cell_num: 300
+    layer_num: 1
+    lx_dim: 300
+    dropout_keep_prob: 0.5
+    optimizer: adagrad
+    learning_rate: 0.01
+    initial_accumulator_value: 0.0000000001 #1e-10
+    lambda: 0.001 # l2
+    initializer: random_uniform
+    seed: 4
+    minval: -0.01
+    maxval: 0.01
+
+exp_3:
+  description: >
+    ATLX
+  hyperparams: &h3
+    <<: *h1
+    lx_mode: att
+    merge_mode: add
+
+exp_15:
+  description: >
+    baseline + att_std_mask
+  hyperparams:
+    <<: *h1
+    att_std_mask: True
+    epsilon: 0.001
+
+exp_17:
+  description: >
+    baseline + att_ent_mask
+  hyperparams:
+    <<: *h1
+    att_ent_mask: True
+    epsilon: 0.025
+
+exp_18:
+  description: >
+    exp_3 + att_ent_mask
+  hyperparams:
+    <<: *h3
+    att_ent_mask: True
+    epsilon: 0.001
+
+exp_19:
+  description: >
+    exp_3 + att_std_mask
+  hyperparams:
+    <<: *h3
+    att_std_mask: True
+    epsilon: 0.0001

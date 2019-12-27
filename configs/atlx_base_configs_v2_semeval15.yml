@@ -1,0 +1,26 @@
+# Basic cofnigs
+
+
+symbol_dict:
+# ----------
+  path: data/processed/SemEval15_laptop/glove_symdict
+  start_idx: 2 # 0 for padding, 1 for <UNK>
+
+embedding_table:
+# --------------
+  path: data/processed/SemEval15_laptop/glove_lookup
+
+lexicon_table:
+# ------------
+  path: data/processed/lexicon_v2/lexicon_table_v2
+  usecol: 3
+  lx_size: -1
+  append_neg: False
+
+model:
+# ----
+  savepath: models/atlx/SemEval15/
+
+exp_configs:
+# ----------
+  path: configs/atlx_exp_configs
