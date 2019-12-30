@@ -10,7 +10,7 @@ embedding_table:
 # --------------
   path: data/processed/SemEval14/glove_lookup
 
-lexicon_table:
+lexicon_table: # Placeholder only, not used in model
 # ------------
   path: data/processed/lexicon_v2/lexicon_table_v2
   usecol: 3

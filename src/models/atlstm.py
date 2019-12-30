@@ -89,13 +89,11 @@ class ATLSTM(BaseModel):
 
                 _r = tf.matmul(alpha, H)  # (batch, 1, d)
                 r = tf.squeeze(_r, 1)  # (batch, d)
-                assert r.shape.as_list() == tf.TensorShape([X_.shape[0], H.shape[2]]).as_list()
 
                 Wp = tf.get_variable('Wp', shape=(r.shape[1], r.shape[1]), dtype=tf.float32, initializer=initializer)  # (d, d)
                 Wx = tf.get_variable('Wx', shape=(hN.shape[1], hN.shape[1]), dtype=tf.float32, initializer=initializer)  # (d, d)
                 h_star = tf.tanh(tf.matmul(r, Wp) + tf.matmul(hN, Wx))
                 h_star = tf.nn.dropout(h_star, dropout_keep, seed=self.p['seed']+40)  # 0.5 dropout on h_star was found in author's code
-                assert h_star.shape.as_list() == tf.TensorShape([H.shape[0], H.shape[2]]).as_list()
 
             # Output Layer
             # ------------
@@ -106,7 +104,7 @@ class ATLSTM(BaseModel):
             # Loss
             # ----
             with tf.name_scope('Loss'):
-                cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y, logits=logits))
+                cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(labels=y, logits=logits))
                 reg_params = [p for p in tf.trainable_variables() if p.name not in {'glove:0', 'unk:0'}]
                 regularizer = tf.divide(self.p['lambda']*tf.add_n([tf.nn.l2_loss(p) for p in reg_params]),
                                         tf.to_float(tf.shape(X_)[0]), name='REGL')
