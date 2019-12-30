@@ -1,22 +1,12 @@
-"""
-
-dm = DataManager(*args, **kwargs)
-
-dm.batch # batch generator to feed data into model
-
-X, asp, lex, y
-
-# pd.options.display.max_colwidth = 80
-"""
-
-
 import pandas as pd
 import numpy as np
 from src.utils import symbolize, get_envar, read_config, read_yaml, load_embedding
 from src.utils import Logger, __fn__
 pd.options.display.max_colwidth = 80
 
+
 logger = Logger(__fn__())
+
 
 class AbsaDataManager(object):
 
@@ -142,63 +132,4 @@ class AbsaDataManager(object):
             _df = df.loc[index]
         _index = index + index.shape[0]
         return _df, _index
-
-
-
-
-
-
-
-
-
-
-
-# df = load_corpus(['data/processed/ATAE-LSTM/train.csv',
-#                      'data/processed/ATAE-LSTM/dev.csv',
-#                      'data/processed/ATAE-LSTM/test.csv'])
-
-# train_df = load_corpus('data/processed/ATAE-LSTM/train.csv')
-#
-# train_df = train_df.head(50)
-#
-#
-# dm = AbsaDataManager()
-#
-#
-# gen = dm.batch_generator(train_df, 32, shuffle=True)
-#
-# _df, _sym = next(gen)
-#
-#
-# _X = dm.token2symbol(_df.SENT.str.split())
-# _a = dm.token2symbol(_df.ASP.str.split())
-# _y = dm.class2symbol(_df.CLS.tolist()[0])
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-# batch1_y = train_df.CLS[:5]
-#
-#
-#
-#
-#
-# batch1_x = train_df.SENT[:5].str.split()
-# batch2_x = train_df.SENT[5:10].str.split()
-#
-# dm.token2symbol(batch1_x)
-#
-# dm.token2symbol(batch2_x)
-#
-#
-# batch1_a = train_df.ASP[:5].str.split()
-# dm.token2symbol(batch1_a)
-
-
 

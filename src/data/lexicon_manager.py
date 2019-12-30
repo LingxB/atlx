@@ -83,17 +83,3 @@ class LexiconManager(object):
             wp = np.empty(self.lx.shape[1])
             wp[:] = np.nan
         return np.nan_to_num(wp)
-
-
-# lm = LexiconManager()
-#
-# sents = ['hello world abnormal ! abandoned'.split(),
-#          'wobble abhor wasting whore'.split()
-#          ]
-#
-# lm.pad_transform(sents)
-#
-#
-# lm.transform(sents[1])
-#
-# lm.loc_word_pol(sents[1][1])
