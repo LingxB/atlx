@@ -3,17 +3,19 @@
 
 symbol_dict:
 # ----------
-  path: data/processed/ATAE-LSTM/glove_symdict
+  path: data/processed/SemEval14/glove_symdict
   start_idx: 2 # 0 for padding, 1 for <UNK>
 
 embedding_table:
 # --------------
-  path: data/processed/ATAE-LSTM/glove_lookup
+  path: data/processed/SemEval14/glove_lookup
 
 lexicon_table:
 # ------------
-  path: data/processed/lexicon/lexicon_table
-  usecol: -1
+  path: data/processed/lexicon_v2/lexicon_table_v2
+  usecol: 3
+  lx_size: -1
+  append_neg: False
 
 model:
 # ----
