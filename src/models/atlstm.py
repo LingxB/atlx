@@ -68,7 +68,6 @@ class ATLSTM(BaseModel):
                 H, (s,) = tf.nn.dynamic_rnn(cell=cell, inputs=X_, sequence_length=seq_len,
                                             dtype=tf.float32)  # (batch, N, d)
                 hN = s.h  # (batch, d)
-                assert H.shape.as_list() == tf.TensorShape([X_.shape[0], X_.shape[1], self.p['cell_num']]).as_list()
 
             # Attention
             # ---------
@@ -76,22 +75,17 @@ class ATLSTM(BaseModel):
                 H_T = tf.transpose(H, [0, 2, 1])  # (batch, d, N)
                 Wh = tf.get_variable('Wh', shape=(self.p['cell_num'], self.p['cell_num']), dtype=tf.float32, initializer=initializer)  # (d, d)
                 WhH = matmul_2_3(Wh, H_T)  # (batch, d, N)
-                assert WhH.shape.as_list() == H_T.shape.as_list()
 
                 VaeN = tf.tile(asp_, [1, tf.shape(X_)[1], 1])  # (batch, N, da), da==d in this setting
-                assert VaeN.shape.as_list() == X_.shape.as_list()
                 VaeN_T = tf.transpose(VaeN, [0, 2, 1])  # (batch, da, N)
                 Wv = tf.get_variable('Wv', shape=(asp_.shape[2], asp_.shape[2]), dtype=tf.float32, initializer=initializer)  # (da, da)
                 WvVaeN = matmul_2_3(Wv, VaeN_T)  # (batch, da, N)
-                assert WvVaeN.shape.as_list() == VaeN_T.shape.as_list()
 
                 M = tf.tanh(tf.concat([WhH, WvVaeN], axis=1))  # (batch, d+da, N)
 
                 w = tf.get_variable('w', shape=(X_.shape[2] + asp_.shape[2], 1), dtype=tf.float32, initializer=initializer)  # (d+da, 1)
                 w_T = tf.transpose(w)  # (1, d+da)
                 alpha = tf.nn.softmax(matmul_2_3(w_T, M), name='ALPHA')  # (batch, 1, N)
-                assert alpha.shape.as_list() == tf.TensorShape([X_.shape[0], 1, M.shape[2]]).as_list()
-                # alpha = tf.reshape(alpha, (tf.shape(alpha)[0], tf.shape(alpha)[2])) # (batch, N)
 
                 _r = tf.matmul(alpha, H)  # (batch, 1, d)
                 r = tf.squeeze(_r, 1)  # (batch, d)
@@ -114,7 +108,6 @@ class ATLSTM(BaseModel):
             with tf.name_scope('Loss'):
                 cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y, logits=logits))
                 reg_params = [p for p in tf.trainable_variables() if p.name not in {'glove:0', 'unk:0'}]
-                #regularizer = tf.multiply(self.p['lambda'], tf.add_n([tf.nn.l2_loss(p) for p in reg_params]), name='REGL')
                 regularizer = tf.divide(self.p['lambda']*tf.add_n([tf.nn.l2_loss(p) for p in reg_params]),
                                         tf.to_float(tf.shape(X_)[0]), name='REGL')
                 loss = tf.add(cross_entropy, regularizer, name='LOSS')
