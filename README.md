@@ -2,7 +2,7 @@
 Implementation details of experiments described in paper  
 [Attention and Lexicon Regularized LSTM for Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/P19-2035.pdf)
 
-Experiments implemented with `tensorflow=1.5.0`, see [`requirements`](https://github.com/LingxB/atlx/blob/master/requirements.txt) for more details.
+Experiments implemented with `python=3.6`, `tensorflow=1.5.0`, see [`requirements`](https://github.com/LingxB/atlx/blob/master/requirements.txt) for more details.
 
 ## Project Organization
 
