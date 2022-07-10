@@ -1,4 +1,7 @@
 # ATLX
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/attention-and-lexicon-regularized-lstm-for/aspect-based-sentiment-analysis-on-semeval)](https://paperswithcode.com/sota/aspect-based-sentiment-analysis-on-semeval?p=attention-and-lexicon-regularized-lstm-for)
+
 Implementation details of experiments described in paper  
 [Attention and Lexicon Regularized LSTM for Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/P19-2035.pdf)
 
